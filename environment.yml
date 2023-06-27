@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - hmmer=3.3.2
+  - diamond=2.1.6
+  - mmseqs=14.7e284
+  - biopython=1.81
+  - python=3.11.2

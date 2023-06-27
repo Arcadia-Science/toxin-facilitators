@@ -1,0 +1,11 @@
+*.dmnd
+*.tar.gz
+tmp/*
+VOG_hmms/
+*.fasta
+.RData
+.Rhistory
+dbs/
+.DS_Store
+proteins/
+.Rproj.user

@@ -1,0 +1,66 @@
+---
+title: "Toxin Facilitator Discovery Report"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+This notebook summarizes the results from the first pass of mining venom transcriptomes for putative facilitator proteins that aid toxins reach their final destination. To obtain the results: 
+
+1. Accessions from venom transcriptomes were obtained to either directly get the proteins or the transcribed RNA sequences to then get predicted ORFs/proteins with `transdecoder`. 
+2. Pool all proteins together and search against toxin Pfam HMMs, keeping those that pass a default e-value cutoff of 1e-50
+3. Annotate all proteins that hit against the toxin Pfam HMMs with all Pfam HMMs to get any additional annotations 
+
+From these efforts, I was able to collect a total of **124 transcriptome accessions** resulting in approximately **300,000 proteins** to search against. Approximately **5,000 proteins** hit against the toxin Pfam HMMs, and **294 proteins** have an additional Pfam annotation besides the original toxin Pfam annotation hit. 
+
+In the `results/2023-04-05_v1` folder, there are several files to explore the results. The `summary.txt` describes for each hit protein the protein length, cysteine content, the Pfam accession and name that the protein hit against. The `all_additional_pfam_annotations.txt` file lists for proteins that had an additional Pfam annotation besides the original toxin Pfam hit. The combined toxin protein and protein summary information with the additional annotation information for the 294 proteins is in the `toxin-additional-domain-annotations-hits.csv` file to explore further. 
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+
+```{r}
+toxin_summaries <- read.table("../results/2023-04-05_v1/summary.txt", header=TRUE, sep="\t")
+
+additional_annotations <- read.table("../results/2023-04-05_v1/all_additional_pfam_annotations.txt", header=TRUE, sep="\t")
+
+head(toxin_summaries)
+head(additional_annotations)
+```
+
+
+```{r}
+colnames(additional_annotations) <- c("hit_id", "additional_pfam_query_accession", "additional_pfam_name")
+toxin_summaries_added_annotations <- left_join(toxin_summaries, additional_annotations) %>% 
+  filter(!is.na(additional_pfam_query_accession))
+
+head(toxin_summaries_added_annotations) 
+
+write.csv(toxin_summaries_added_annotations, "../results/2023-04-05_v1/toxin-additional-domain-annotations-hits.csv", quote = FALSE, row.names = FALSE)
+
+```
+
+We can plot the results comparing protein length and cysteine content while coloring each point either the Pfam accession name for the toxin or for the additional annotation for proteins that have an additional annotation: 
+
+```{r}
+toxin_summaries_added_annotations %>% 
+  ggplot(aes(x=length, y=cysteine_content)) + 
+  geom_point(aes(color=pfam_query_name)) +
+  theme_classic() + 
+  theme(legend.position = "bottom")
+```
+
+```{r}
+toxin_summaries_added_annotations %>% 
+  ggplot(aes(x=length, y=cysteine_content)) +
+  geom_point(aes(color=additional_pfam_name)) + 
+  theme_classic() +
+  theme(legend.position = "bottom")
+```
+
+```{r}
+sessionInfo()
+```
+

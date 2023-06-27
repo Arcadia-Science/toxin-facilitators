@@ -1,0 +1,157 @@
+prefix_s,project_s,targeted_locus_name_s,div_s,organism_an,bioproject_s,biosample_ss,keyword_ss,infra_name_ss,other_src_ss,contigs_total_length_l,contigs_count_l,contigs_proteins_count_l,contigs_annotated_s,update_date_dt,create_date_dt
+IACK01,TSA,,VRT,Micrurus lemniscatus lemniscatus,PRJDB5628,SAMD00076720,TSA,,tissue_type: venom_gland,138278025,245578,17068,Yes,2017-12-07T00:00:00Z,2017-12-07T00:00:00Z
+IACJ01,TSA,,VRT,Micrurus corallinus,PRJDB5628,SAMD00076721,TSA,,tissue_type: venom_gland,89498888,167791,16026,Yes,2017-12-06T00:00:00Z,2017-12-06T00:00:00Z
+IACM01,TSA,,VRT,Micrurus spixii,PRJDB5628,SAMD00076722,TSA,,tissue_type: venom_gland,100370642,183365,14819,Yes,2018-12-13T00:00:00Z,2018-12-13T00:00:00Z
+IACN01,TSA,,VRT,Micrurus surinamensis,PRJDB5628,SAMD00076719,TSA,,tissue_type: venom_gland,66281527,120672,10507,Yes,2018-12-13T00:00:00Z,2017-12-09T00:00:00Z
+IACI01,TSA,,VRT,Micrurus lemniscatus carvalhoi,PRJDB5628,SAMD00076724,TSA,,tissue_type: venom_gland,62813365,120742,9744,Yes,2017-12-05T00:00:00Z,2017-12-05T00:00:00Z
+GBSH01,TSA,,VRT,Boiga irregularis,PRJNA88989,SAMN02910087,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",5805903,3206,3203,Yes,2015-02-04T00:00:00Z,2015-02-04T00:00:00Z
+GAAZ01,TSA,,VRT,Crotalus horridus,PRJNA88989,SAMN01179614,TSA,,tissue_type: venom gland,7013788,3091,3091,Yes,2015-07-20T00:00:00Z,2013-07-08T00:00:00Z
+GDAY02,TSA,,VRT,Agkistrodon contortrix contortrix,PRJNA88989,SAMN03658795,TSA,isolate: KW1091,"dev_stage: adult,tissue_type: Venom gland",6129050,3019,3019,Yes,2017-04-17T00:00:00Z,2017-04-17T00:00:00Z
+GBKC01,TSA,,VRT,Crotalus horridus,PRJNA88989,SAMN01179614,TSA; Targeted,,tissue_type: Venom gland,5992988,2463,2463,Yes,2015-04-07T00:00:00Z,2015-01-06T00:00:00Z
+GAEP01,TSA,,VRT,Micrurus fulvius,PRJNA186685,,TSA,,tissue_type: venom gland,3212997,2066,2066,Yes,2013-08-30T00:00:00Z,2013-08-30T00:00:00Z
+GBKD01,TSA,,VRT,Crotalus horridus,PRJNA88989,SAMN02998121,TSA; Targeted,strain: Type B,tissue_type: Venom gland,3018499,1548,1548,Yes,2015-04-07T00:00:00Z,2015-01-06T00:00:00Z
+GHBZ01,TSA,,INV,Scolopocryptops sexspinosus,PRJNA340270,"SAMN10423647,SAMN10423648",TSA,,tissue_type: Venom gland,3303176,1540,1540,Yes,2019-07-03T00:00:00Z,2019-07-03T00:00:00Z
+GBSI01,TSA,,VRT,Hypsiglena sp. JMG-2014,PRJNA88989,SAMN02910088,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",2223608,1445,1443,Yes,2014-10-24T00:00:00Z,2014-10-24T00:00:00Z
+GHBY01,TSA,,INV,Hemiscolopendra marginata,PRJNA340270,"SAMN10423645,SAMN10423646",TSA,,tissue_type: Venom gland,1692012,764,764,Yes,2019-12-09T00:00:00Z,2019-12-09T00:00:00Z
+GFAH01,TSA,,INV,Hadrurus spadix,PRJNA340270,"SAMN05711363,SAMN05711364",TSA; Targeted,,tissue_type: Venom gland,1614809,744,744,Yes,2017-04-12T00:00:00Z,2017-04-12T00:00:00Z
+GGNE01,TSA,,INV,Scolopendra viridis,PRJNA340270,"SAMN09042581,SAMN09042582",TSA,,tissue_type: Venom gland,1074544,520,520,Yes,2018-11-29T00:00:00Z,2018-11-29T00:00:00Z
+GFWZ01,TSA,,INV,Centruroides hentzi,PRJNA340270,"SAMN07655950,SAMN07655951",TSA,,tissue_type: Venom gland,763002,477,477,Yes,2018-01-24T00:00:00Z,2018-01-24T00:00:00Z
+GDAZ01,TSA,,VRT,Agkistrodon conanti,PRJNA88989,SAMN03658796,TSA; Targeted,isolate: KW1750,"dev_stage: Adult,tissue_type: Venom gland",231920,157,157,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GEDR01,TSA,,VRT,Bothrops atrox,PRJNA279987,SAMN03453198,TSA; Targeted,isolate: Tapajos National Forest,"isolation_source: Tapajos National Forest,tissue_type: Venom gland",137244,152,152,Yes,2017-01-03T00:00:00Z,2017-01-03T00:00:00Z
+GDBH01,TSA,,VRT,Micrurus tener,PRJNA88989,SAMN03658783,TSA; Targeted,isolate: KW1743,"dev_stage: Adult,tissue_type: Venom gland",118945,147,147,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GCJM01,TSA,,INV,Conus tribblei,PRJNA273524,SAMN03294211,TSA,,tissue_type: venom duct,40774,136,136,Yes,2015-03-02T00:00:00Z,2015-03-02T00:00:00Z
+GFCD01,TSA,,INV,Superstitionia donensis,PRJNA345499,SAMN05868008,TSA,isolate: pooled,"isolation_source: under bark,tissue_type: venom gland",62264,135,135,Yes,2017-03-29T00:00:00Z,2017-03-29T00:00:00Z
+GDBI01,TSA,,VRT,Sistrurus tergeminus,PRJNA88989,SAMN03658792,TSA; Targeted,isolate: KW1090,"dev_stage: Adult,tissue_type: Venom gland",211902,134,134,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GCVH01,TSA,,INV,Conus lenavati,PRJNA275458,"SAMN03342430,SAMN03342431,SAMN03342432",TSA; Targeted,,tissue_type: venom duct,40097,126,126,Yes,2015-07-01T00:00:00Z,2015-07-01T00:00:00Z
+GDAY01,TSA,,VRT,Agkistrodon contortrix contortrix,PRJNA88989,SAMN03658795,TSA; Targeted,isolate: KW1091,"dev_stage: Adult,tissue_type: Venom gland",186113,124,124,Yes,2017-04-14T00:00:00Z,2016-06-30T00:00:00Z
+GDBJ01,TSA,,VRT,Sistrurus miliarius barbouri,PRJNA88989,SAMN03658793,TSA; Targeted,isolate: KW1749,"dev_stage: Adult,tissue_type: Venom gland",206754,122,122,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GFBG01,TSA,,INV,Megacormus gertschi,PRJNA320105,SAMN04916686,TSA,,"dev_stage: adult,tissue_type: venom gland",88218,122,122,Yes,2017-07-17T00:00:00Z,2017-07-17T00:00:00Z
+HACE01,TSA,,INV,Hadronyche infensa,PRJEB6062,SAMEA2729911,TSA,,tissue_type: 6 venom glands,73340,120,120,Yes,2017-09-29T00:00:00Z,2016-09-16T00:00:00Z
+GDBA01,TSA,,VRT,Boiga irregularis,PRJNA88989,SAMN02910087,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",127179,108,108,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GAIH01,TSA,,INV,Conus victoriae,PRJNA196802,SAMN02047449,TSA; Targeted,,"dev_stage: adult,tissue_type: venom gland",25935,106,105,Yes,2015-04-30T00:00:00Z,2014-01-03T00:00:00Z
+GCVM01,TSA,,INV,Conus tribblei,PRJNA275371,"SAMN03342426,SAMN03342427,SAMN03342429",TSA,,tissue_type: venom duct,30802,96,96,Yes,2015-07-01T00:00:00Z,2015-07-01T00:00:00Z
+GDBD01,TSA,,VRT,Crotalus horridus,PRJNA88989,SAMN02998121,TSA; Targeted,strain: Type B,tissue_type: Venom gland,144502,94,94,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+GDBE01,TSA,,VRT,Hypsiglena sp. JMG-2014,PRJNA88989,SAMN02910088,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",129529,79,79,Yes,2016-06-30T00:00:00Z,2016-06-30T00:00:00Z
+HAGK01,TSA,,VRT,Crotalus durissus terrificus,PRJEB19865,SAMEA103892636,TSA,,tissue_type: venom gland,64017,74,74,Yes,2019-05-08T00:00:00Z,2019-05-08T00:00:00Z
+GBRA01,TSA,,INV,Gemmula speciosa,PRJNA251670,SAMN02838030,TSA; Targeted,,"isolation_source: Marine benthic,tissue_type: venom duct",22288,74,74,Yes,2014-10-14T00:00:00Z,2014-10-14T00:00:00Z
+GAHH01,TSA,,VRT,Pseudonaja modesta,PRJNA189688,SAMN01922390,TSA; Targeted,,tissue_type: maxillary venom gland,24905,73,73,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GEHL01,TSA,,VRT,Phalotris mertensi,PRJNA310618,SAMN04450882,TSA,strain: eukaryotic,"dev_stage: adult,tissue_type: venom gland",3328018,6930,54,Yes,2016-04-12T00:00:00Z,2016-04-12T00:00:00Z
+GAQE01,TSA,,INV,Trittame loki,PRJNA189679,SAMN01924510,TSA; Targeted,,tissue_type: venom gland,19488,47,47,Yes,2014-01-07T00:00:00Z,2013-12-18T00:00:00Z
+GAHG01,TSA,,VRT,Hoplocephalus bungaroides,PRJNA189687,SAMN01922389,TSA; Targeted,,tissue_type: maxillary venom gland,27406,46,46,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GGUB01,TSA,,VRT,Boiga dendrophila,PRJNA483079,SAMN09725842,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",14337,43,43,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GAHF01,TSA,,VRT,Hemiaspis signata,PRJNA189686,SAMN01922388,TSA; Targeted,,tissue_type: maxillary venom gland,16229,41,41,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GBQY01,TSA,,INV,Unedogemmula bisaya,PRJNA260871,SAMN03032304,TSA; Targeted,,"isolation_source: Marine benthic,tissue_type: venom duct",12885,41,41,Yes,2014-10-14T00:00:00Z,2014-10-14T00:00:00Z
+GAHE01,TSA,,VRT,Furina ornata,PRJNA189685,SAMN01922387,TSA; Targeted,,tissue_type: maxillary venom gland,12453,38,38,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GAHB01,TSA,,VRT,Cacophis squamulosus,PRJNA189682,SAMN01922384,TSA; Targeted,,tissue_type: maxillary venom gland,10448,33,33,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GAGZ01,TSA,,VRT,Acanthophis wellsi,PRJNA189680,SAMN01922383,TSA; Targeted,,tissue_type: maxillary venom gland,12480,32,32,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GAHD01,TSA,,VRT,Echiopsis curta,PRJNA189684,SAMN01922386,TSA; Targeted,,tissue_type: maxillary venom gland,15582,32,32,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GALL01,TSA,,INV,Lychas buchari,PRJNA201351,SAMN02178834,TSA; Targeted,,tissue_type: telson venom gland,11835,32,32,Yes,2014-01-07T00:00:00Z,2013-07-09T00:00:00Z
+GAHA01,TSA,,VRT,Brachyurophis roperi,PRJNA189681,SAMN01924509,TSA; Targeted,,tissue_type: maxillary venom gland,12492,31,31,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GAKS01,TSA,,VRT,Crotalus oreganus helleri,PRJNA206012,SAMN02183580,TSA; Targeted,strain: Phelan,tissue_type: maxillary venom gland,20496,31,31,Yes,2013-07-09T00:00:00Z,2013-07-09T00:00:00Z
+GHUO01,TSA,,VRT,Thelotornis mossambicanus,PRJNA561062,SAMN12606129,TSA; Targeted,,"dev_stage: adult,tissue_type: venom gland",23829,30,30,Yes,2019-12-09T00:00:00Z,2019-12-09T00:00:00Z
+GAHI01,TSA,,VRT,Suta fasciata,PRJNA189689,SAMN01922391,TSA; Targeted,,tissue_type: maxillary venom gland,15537,30,30,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GAJN01,TSA,,INV,Conus geographus,PRJNA167726,,TSA; Targeted,,tissue_type: venom gland,17268,30,30,Yes,2014-01-03T00:00:00Z,2014-01-03T00:00:00Z
+GAKQ01,TSA,,VRT,Crotalus oreganus helleri,PRJNA206010,SAMN02183578,TSA; Targeted,strain: Catalina Island,tissue_type: maxillary venom gland,14892,26,26,Yes,2013-07-09T00:00:00Z,2013-07-09T00:00:00Z
+GALC01,TSA,,VRT,Crotalus oreganus helleri,PRJNA206013,SAMN02183581,TSA; Targeted,strain: Loma Linda,tissue_type: maxillary venom gland,15978,26,26,Yes,2013-07-09T00:00:00Z,2013-07-09T00:00:00Z
+GAGI01,TSA,,INV,Abdopus aculeatus,PRJNA188569,SAMN01911391,TSA; Targeted,,tissue_type: posterior venom gland,19680,25,25,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAHJ01,TSA,,VRT,Vermicella annulata,PRJNA189690,SAMN01924508,TSA; Targeted,,tissue_type: maxillary venom gland,8061,24,24,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GBQZ01,TSA,,INV,Crassispira cerithina,PRJNA260959,SAMN03067761,TSA; Targeted,,"isolation_source: Marine benthic,tissue_type: venom duct",6749,22,22,Yes,2014-10-14T00:00:00Z,2014-10-14T00:00:00Z
+GAHC01,TSA,,VRT,Denisonia devisi,PRJNA189683,SAMN01922385,TSA; Targeted,,tissue_type: maxillary venom gland,12198,21,21,Yes,2014-01-07T00:00:00Z,2013-04-08T00:00:00Z
+GALI01,TSA,,INV,Urodacus manicatus,PRJNA201352,SAMN02178835,TSA; Targeted,,tissue_type: telson venom gland,7056,19,19,Yes,2014-01-07T00:00:00Z,2013-07-09T00:00:00Z
+GALK01,TSA,,INV,Isometroides vescus,PRJNA201350,SAMN02178833,TSA; Targeted,,tissue_type: telson venom gland,6896,18,18,Yes,2014-01-07T00:00:00Z,2013-07-09T00:00:00Z
+GGUD01,TSA,,VRT,Boiga irregularis,PRJNA483079,SAMN09725844,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",5700,18,18,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GAKR01,TSA,,VRT,Crotalus oreganus helleri,PRJNA206011,SAMN02183579,TSA; Targeted,strain: Idyllwild,tissue_type: maxillary venom gland,11118,18,16,Yes,2013-07-09T00:00:00Z,2013-07-09T00:00:00Z
+GGUE01,TSA,,VRT,Boiga irregularis,PRJNA483079,SAMN09725845,TSA; Targeted,,"dev_stage: adult,tissue_type: venom gland",4491,14,14,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GAGN01,TSA,,INV,Sepioteuthis australis,PRJNA188576,SAMN01911450,TSA; Targeted,,tissue_type: posterior venom gland,11094,13,13,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GALH01,TSA,,INV,Cercophonius squama,PRJNA201349,SAMN02178832,TSA; Targeted,,tissue_type: telson venom gland,3939,13,13,Yes,2014-01-07T00:00:00Z,2013-07-09T00:00:00Z
+GGUC01,TSA,,VRT,Boiga dendrophila,PRJNA483079,SAMN09725843,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",3819,12,12,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GAGL01,TSA,,INV,Octopus cyanea,PRJNA188573,SAMN01911445,TSA; Targeted,,tissue_type: posterior venom gland,7163,10,10,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAGJ01,TSA,,INV,Hapalochlaena maculosa,PRJNA188571,SAMN01911430,TSA; Targeted,,tissue_type: posterior venom gland,3867,7,7,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAGP01,TSA,,INV,Sepia pharaonis,PRJNA188577,SAMN01911448,TSA; Targeted,,tissue_type: posterior venom gland,4875,7,7,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GGUF01,TSA,,VRT,Boiga nigriceps,PRJNA483079,SAMN09725846,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",2211,7,7,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GGUG01,TSA,,VRT,Boiga trigonata,PRJNA483079,SAMN09725847,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",2187,7,7,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GAGK01,TSA,,INV,Uroteuthis noctiluca,PRJNA188572,SAMN01911444,TSA; Targeted,,tissue_type: posterior venom gland,4134,6,6,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAGO01,TSA,,INV,Octopus kaurna,PRJNA188658,SAMN01911449,TSA; Targeted,,tissue_type: posterior venom gland,3030,5,5,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAGQ01,TSA,,INV,Sepia latimanus,PRJNA188659,SAMN01911447,TSA; Targeted,,tissue_type: posterior venom gland,2718,4,4,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GAGM01,TSA,,INV,Pareledone turqueti,PRJNA188575,SAMN01911446,TSA; Targeted,,tissue_type: posterior venom gland,2391,3,3,Yes,2013-04-08T00:00:00Z,2013-04-08T00:00:00Z
+GALG01,TSA,,INV,Australobuthus xerolimniorum,PRJNA201348,SAMN02178830,TSA; Targeted,,tissue_type: telson venom gland,572,2,2,Yes,2014-01-07T00:00:00Z,2013-07-09T00:00:00Z
+GGUA01,TSA,,VRT,Boiga cynodon,PRJNA483079,SAMN09725841,TSA; Targeted,,"dev_stage: adult,tissue_type: Venom gland",255,1,1,Yes,2018-10-02T00:00:00Z,2018-10-02T00:00:00Z
+GHKQ01,TSA,,INV,Scolopendra morsitans,PRJNA540703,SAMN11553662,TSA; Targeted,isolate: 1 adult specimen,tissue_type: venom gland,506295,662,0,No,2020-08-31T00:00:00Z,2020-08-31T00:00:00Z
+GHOC01,TSA,,VRT,Aspidelaps scutatus,PRJNA480570,SAMN09641950,TSA,,"dev_stage: adult,tissue_type: Venom gland",1466368,2490,0,No,2019-07-10T00:00:00Z,2019-07-10T00:00:00Z
+GHOQ01,TSA,,VRT,Dispholidus typus,PRJNA347284,SAMN05878571,TSA,strain: Tanzania,"dev_stage: adult,tissue_type: Venom gland",2585759,3844,0,No,2019-07-12T00:00:00Z,2019-07-12T00:00:00Z
+GHPA01,TSA,,VRT,Dendroaspis jamesoni jamesoni,PRJNA374679,SAMN06330256,TSA,,"dev_stage: adult,tissue_type: venom gland",2377181,4206,0,No,2019-07-29T00:00:00Z,2019-07-29T00:00:00Z
+GHPB01,TSA,,VRT,Dendroaspis jamesoni kaimosae,PRJNA374679,SAMN06330255,TSA,,"dev_stage: adult,tissue_type: venom gland",1704773,2820,0,No,2019-07-29T00:00:00Z,2019-07-29T00:00:00Z
+GHPC01,TSA,,VRT,Dendroaspis viridis,PRJNA374679,SAMN06330254,TSA,,"dev_stage: adult,tissue_type: venom gland",1771912,3554,0,No,2019-07-29T00:00:00Z,2019-07-29T00:00:00Z
+GHPD01,TSA,,VRT,Dendroaspis polylepis,PRJNA374679,SAMN06330126,TSA,,"dev_stage: adult,tissue_type: venom gland",2975136,5834,0,No,2019-07-29T00:00:00Z,2019-07-29T00:00:00Z
+GHRV01,TSA,,VRT,Naja haje,PRJNA506018,SAMN10441092,TSA,isolate: Ugandan origin,"dev_stage: adult,tissue_type: venom gland",2140030,4284,0,No,2019-08-20T00:00:00Z,2019-08-20T00:00:00Z
+GHRW01,TSA,,VRT,Naja kaouthia,PRJNA506018,SAMN10441072,TSA,isolate: captive bred,"dev_stage: adult,tissue_type: venom gland",2817157,5503,0,No,2019-08-20T00:00:00Z,2019-08-20T00:00:00Z
+GHRX01,TSA,,VRT,Naja naja,PRJNA506018,SAMN10440997,TSA,isolate: captive bred individual,"dev_stage: adult,isolation_source: captive bred,tissue_type: venom gland",1303805,2672,0,No,2019-08-20T00:00:00Z,2019-08-20T00:00:00Z
+GIIZ01,TSA,,INV,Acanthoscurria juruenicola,PRJNA603608,SAMN13938688,TSA,isolate: venom gland,"isolation_source: captivity,tissue_type: venom gland",123035609,152966,0,No,2022-08-30T00:00:00Z,2022-08-30T00:00:00Z
+GIJB01,TSA,,VRT,Vipera aspis,PRJNA594707,SAMN13526679,TSA,isolate: venom gland tissue from Vipera aspis CB001,tissue_type: venom gland,1371667,1858,0,No,2020-04-02T00:00:00Z,2020-04-02T00:00:00Z
+GIJC01,TSA,,VRT,Hemachatus haemachatus,PRJNA506018,SAMN13893933,TSA,isolate: South African origin,"dev_stage: adult,tissue_type: venom gland",1451809,1882,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJD01,TSA,,VRT,Naja annulifera,PRJNA506018,SAMN13893934,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",698300,1245,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJE01,TSA,,VRT,Naja atra,PRJNA506018,SAMN13893935,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",1414235,2644,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJF01,TSA,,VRT,Naja nigricollis,PRJNA506018,SAMN13893936,TSA,isolate: Tanzanian origin,"dev_stage: adult,tissue_type: venom gland",1783996,3429,0,No,2022-05-23T00:00:00Z,2020-07-13T00:00:00Z
+GIJG01,TSA,,VRT,Naja nigricollis,PRJNA506018,SAMN13893937,TSA,isolate: Nigerian origin,"dev_stage: adult,tissue_type: venom gland",1417274,2075,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJH01,TSA,,VRT,Naja nivea,PRJNA506018,SAMN13893938,TSA,isolate: South African origin,"dev_stage: adult,tissue_type: venom gland",943441,1205,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJI01,TSA,,VRT,Naja nubiae,PRJNA506018,SAMN13893939,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",1523135,2342,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJJ01,TSA,,VRT,Naja pallida,PRJNA506018,SAMN13893940,TSA,isolate: Tanzanian origin,"dev_stage: adult,tissue_type: venom gland",1153053,2201,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJK01,TSA,,VRT,Naja philippinensis,PRJNA506018,SAMN13893941,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",760141,1334,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJL01,TSA,,VRT,Naja siamensis,PRJNA506018,SAMN13893942,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",1330000,2567,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJM01,TSA,,VRT,Naja subfulva,PRJNA506018,SAMN13893943,TSA,isolate: Cameroon origin,"dev_stage: adult,tissue_type: venom gland",4897526,9474,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJN01,TSA,,VRT,Naja sumatrana,PRJNA506018,SAMN13893944,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",3696220,6799,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIJO01,TSA,,VRT,Walterinnesia aegyptia,PRJNA506018,SAMN13893945,TSA,isolate: Captive bred,"dev_stage: adult,tissue_type: venom gland",2148290,3268,0,No,2020-07-13T00:00:00Z,2020-07-13T00:00:00Z
+GIKH01,TSA,,VRT,Bungarus multicinctus,PRJNA608620,SAMN14178844,TSA,,"tissue_type: venom gland\, muscle\, lung\, kidney\, liver\,heart",176198888,73529,0,No,2021-06-18T00:00:00Z,2021-06-18T00:00:00Z
+GILR01,TSA,,VRT,Dendroaspis angusticeps,PRJNA374679,SAMN06330253,TSA,,"dev_stage: adult,tissue_type: venom gland",2392849,4398,0,No,2020-05-06T00:00:00Z,2020-05-06T00:00:00Z
+GIOJ01,TSA,,INV,Acanthoscurria rondoniae,PRJNA633430,SAMN14943686,TSA,isolate: venom gland,"isolation_source: captivity,tissue_type: venom gland",110529175,150386,0,No,2021-06-11T00:00:00Z,2021-06-11T00:00:00Z
+GJFD01,TSA,,VRT,Conophis lineatus,PRJNA88989,SAMN18863723,TSA,isolate: CLP2629,"dev_stage: adult,tissue_type: Duvernoy's (venom) gland",2028432,1973,0,No,2022-01-04T00:00:00Z,2022-01-04T00:00:00Z
+GJOG01,TSA,,INV,Cryptops iheringi,PRJNA763193,SAMN21432369,TSA,"breed: centipede,isolate: seven adult individuals","isolation_source: Sao Paulo Brazil,tissue_type: venom gland",68024656,88774,0,No,2022-04-09T00:00:00Z,2022-04-09T00:00:00Z
+GJTA01,TSA,,VRT,Crotalus ericsmithi,PRJNA88989,SAMN16494509,TSA,isolate: Ceric-CLP2391,"dev_stage: adult,tissue_type: Venom Gland",2815116,2284,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJTD01,TSA,,VRT,Crotalus lannomi,PRJNA88989,SAMN16494517,TSA,isolate: Clann-CLP2394,"dev_stage: adult,tissue_type: Venom Gland",1916628,1678,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJTL01,TSA,,VRT,Crotalus pusillus,PRJNA88989,SAMN16494569,TSA,isolate: Cpusi-CLP2483,"dev_stage: adult,tissue_type: Venom Gland",1523076,1438,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJTT01,TSA,,VRT,Crotalus transversus,PRJNA88989,SAMN16494609,TSA,isolate: Ctran-CLP2358,"dev_stage: adult,tissue_type: Venom Gland",2446713,2151,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJTU01,TSA,,VRT,Sistrurus catenatus,PRJNA88989,SAMN16494626,TSA,isolate: Scate-DRR0043,tissue_type: Venom Gland,1411083,1433,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUG01,TSA,,VRT,Agkistrodon contortrix,PRJNA88989,SAMN16494446,TSA,isolate: Acont-DRR0002,tissue_type: Venom Gland,864771,867,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUH01,TSA,,VRT,Agkistrodon laticinctus,PRJNA88989,SAMN16494449,TSA,isolate: Alati-DRR0001,tissue_type: Venom Gland,1054491,949,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUI01,TSA,,VRT,Agkistrodon conanti,PRJNA88989,SAMN16494442,TSA,isolate: Acona-KW1996,tissue_type: Venom Gland,711021,743,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUM01,TSA,,VRT,Sistrurus miliarius barbouri,PRJNA88989,SAMN03658793,TSA,isolate: KW1749,"dev_stage: adult,tissue_type: Venom gland",1143120,1023,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUN01,TSA,,VRT,Crotalus oreganus,PRJNA88989,SAMN16494550,TSA,isolate: Coreg-CLP2063,"dev_stage: adult,tissue_type: Venom Gland",1065462,1059,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUR01,TSA,,VRT,Crotalus oreganus lutosus,PRJNA88989,SAMN16494527,TSA,isolate: Cluto-CLP1844,"dev_stage: adult,tissue_type: Venom Gland",2772339,2225,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJUT01,TSA,,VRT,Crotalus oreganus lutosus,PRJNA88989,SAMN16494528,TSA,isolate: Cluto-MM0235,tissue_type: Venom Gland,1153848,1017,0,No,2022-05-03T00:00:00Z,2022-05-03T00:00:00Z
+GJZK01,TSA,,VRT,Crotalus viridis,PRJNA837532,SAMN28204865,TSA,,tissue_type: Right venom gland,463389685,156196,0,No,2022-06-28T00:00:00Z,2022-06-28T00:00:00Z
+GAJM01,TSA,,INV,Xibalbanus tulumensis,PRJNA203251,SAMN02146300,TSA,,tissue_type: venom gland,933171,1030,0,No,2014-02-26T00:00:00Z,2014-01-09T00:00:00Z
+GANH01,TSA,,INV,Microplitis demolitor,PRJNA214515,,TSA,,tissue_type: venom glands; teratocytes; larvae; ovaries,32840463,13185,0,No,2013-09-24T00:00:00Z,2013-09-24T00:00:00Z
+GANL01,TSA,,INV,Latrodectus tredecimguttatus,PRJNA215735,SAMN02318955,TSA,,tissue_type: venom gland,11393618,10259,0,No,2013-12-18T00:00:00Z,2013-09-26T00:00:00Z
+GANS01,TSA,,INV,Dinoponera quadriceps,PRJNA217939,SAMN02343703,TSA,,tissue_type: venom gland,2647412,6509,0,No,2014-02-28T00:00:00Z,2014-02-04T00:00:00Z
+GAPR01,TSA,,INV,Diadromus collaris,PRJNA225661,SAMN02388840,TSA,strain: zhejiang,"host: Plutella xylostella,tissue_type: venom gland",27331503,38277,0,No,2016-05-02T00:00:00Z,2015-11-03T00:00:00Z
+GAQF01,TSA,,INV,Cotesia vestalis,PRJNA227317,SAMN02401328,TSA,,"dev_stage: adult,host: Plutella xylostella,isolation_source: zhejiang province in China,tissue_type: venom gland",18367173,31146,0,No,2016-05-02T00:00:00Z,2015-11-02T00:00:00Z
+GART01,TSA,,INV,Glycera tridactyla,PRJNA234022,SAMN02580448,TSA,,"dev_stage: adult,tissue_type: body tissue (no venom glands)",6000626,10123,0,No,2014-09-03T00:00:00Z,2014-09-03T00:00:00Z
+GARU01,TSA,,INV,Glycera tridactyla,PRJNA234021,SAMN02580447,TSA,,"dev_stage: Adult,tissue_type: Venom gland",4941409,7985,0,No,2014-09-03T00:00:00Z,2014-09-03T00:00:00Z
+GASH01,TSA,,INV,Scolopendra morsitans,PRJNA200640,SAMN02086963,TSA; Targeted,,tissue_type: venom_gland,124512,185,0,No,2014-06-04T00:00:00Z,2014-06-04T00:00:00Z
+GASI01,TSA,,INV,Ethmostigmus rubripes,PRJNA200639,SAMN02086961,TSA; Targeted,,tissue_type: venom_gland,107528,193,0,No,2014-06-05T00:00:00Z,2014-06-05T00:00:00Z
+GASK01,TSA,,INV,Scolopendra alternans,PRJNA200753,SAMN02116184,TSA; Targeted,,tissue_type: venom_gland,30534,51,0,No,2014-06-04T00:00:00Z,2014-06-04T00:00:00Z
+GASL01,TSA,,INV,Cormocephalus westwoodi,PRJNA200641,SAMN02086962,TSA; Targeted,,tissue_type: venom_gland,32400,49,0,No,2014-06-04T00:00:00Z,2014-06-04T00:00:00Z
+GASR01,TSA,,INV,Thereuopoda longicornis,PRJNA213032,SAMN02261726,TSA; Targeted,,tissue_type: venom_gland,87571,116,0,No,2014-06-04T00:00:00Z,2014-06-04T00:00:00Z
+IAAC01,TSA,,VRT,Protobothrops mucrosquamatus,PRJDB4386,"SAMD00043517,SAMD00043518,SAMD00043519,SAMD00043520,SAMD00043521,SAMD00043522,SAMD00043523,SAMD00043524,SAMD00043525,SAMD00043526,SAMD00043527,SAMD00043528,SAMD00043529,SAMD00043530,SAMD00043531,SAMD00043532,SAMD00043533,SAMD00043534,SAMD00043535,SAMD00043536,SAMD00043537,SAMD00043538,SAMD00043539,SAMD00043540,SAMD00043541,SAMD00043542,SAMD00043543,SAMD00043544,SAMD00043545,SAMD00043546,SAMD00043547",TSA,isolate: PMUCROS,tissue_type: venom gland,62834232,112307,0,No,2015-12-09T00:00:00Z,2015-12-09T00:00:00Z
+GDAD01,TSA,,VRT,Pseudonaja textilis,PRJNA274608,SAMN03329627,TSA,isolate: BarossaValley01,"dev_stage: Adult,tissue_type: venom gland",1282907,1498,0,No,2015-06-19T00:00:00Z,2015-06-19T00:00:00Z
+GDKV01,TSA,,VRT,Pseudagkistrodon rudis,PRJNA291694,SAMN03997505,TSA,,tissue_type: venom gland,33143580,56935,0,No,2017-01-03T00:00:00Z,2016-09-08T00:00:00Z
+GDRF01,TSA,,VRT,Ophiophagus hannah,PRJNA276622,SAMN03378984,TSA,isolate: Malaysian,"dev_stage: Adult,tissue_type: venom gland",18648067,29975,0,No,2015-10-08T00:00:00Z,2015-09-28T00:00:00Z
+GECP01,TSA,,VRT,Crotalus simus,PRJNA301100,"SAMN04245819,SAMN04245820,SAMN04245821,SAMN04245822,SAMN04245823,SAMN04245824",TSA,,tissue_type: venom gland,484821,417,0,Yes,2017-02-27T00:00:00Z,2016-01-20T00:00:00Z
+GECT01,TSA,,INV,Pteromalus puparum,PRJNA276955,SAMN03382593,TSA,,"host: Pieris rapae,isolation_source: lab culture,tissue_type: whole female adults\, venom glands and female body carcasses",34842433,39468,0,No,2016-01-12T00:00:00Z,2016-01-12T00:00:00Z
+GEFC01,TSA,,VRT,Thamnodynastes strigatus,PRJNA310659,SAMN04453245,TSA,,"dev_stage: Adult,tissue_type: venom gland",189980,382,0,No,2016-04-12T00:00:00Z,2016-04-12T00:00:00Z
+GEFE01,TSA,,VRT,Philodryas olfersii,PRJNA310660,SAMN04453246,TSA,,"dev_stage: Adult,tissue_type: venom gland",511399,1167,0,No,2016-04-05T00:00:00Z,2016-04-05T00:00:00Z
+GEFK01,TSA,,VRT,Erythrolamprus miliaris,PRJNA310611,SAMN04450880,TSA,,"dev_stage: adult,tissue_type: venom gland",1496682,1935,0,No,2016-04-05T00:00:00Z,2016-04-05T00:00:00Z
+GEFL01,TSA,,VRT,Oxyrhopus guibei,PRJNA310661,SAMN04450881,TSA,,"dev_stage: adult,tissue_type: venom gland",1465808,1457,0,No,2016-04-05T00:00:00Z,2016-04-05T00:00:00Z
+GCDX01,TSA,,INV,Psyttalia concolor,PRJNA262710,SAMN03085503,TSA,strain: Sicily,tissue_type: Venom apparatus,15790126,14749,0,No,2016-02-24T00:00:00Z,2016-02-24T00:00:00Z
+GGFG01,TSA,,INV,Myrmecia gulosa,PRJNA429730,SAMN08358205,TSA; Targeted,,tissue_type: venom apparatus,11706,22,0,No,2018-01-30T00:00:00Z,2018-01-30T00:00:00Z
+GETV01,TSA,,VRT,Xenodon merremii,PRJNA310192,SAMN04448167,TSA,,"dev_stage: adult,tissue_type: venom gland",153431,320,0,No,2016-07-21T00:00:00Z,2016-07-21T00:00:00Z
+GFCP01,TSA,,INV,Ampulex compressa,PRJNA356979,SAMN06130557,TSA,,"dev_stage: adult,host: Periplaneta americana,isolation_source: Laboratory colony,tissue_type: Venom Gland and Venom Sac",87334575,62781,0,No,2017-04-03T00:00:00Z,2017-04-03T00:00:00Z
+GFJM01,TSA,,VRT,Bothrops jararaca,PRJNA262899,SAMN06554614,TSA,isolate: Specimen 8,"dev_stage: adult,tissue_type: accessory venom gland",29441315,45096,0,No,2017-07-10T00:00:00Z,2017-07-10T00:00:00Z
+GFNK01,TSA,,INV,Conus gloriamaris,PRJNA385205,SAMN06883974,TSA; Targeted,,tissue_type: venom gland,28702,109,0,No,2017-05-19T00:00:00Z,2017-05-19T00:00:00Z
+GFOZ01,TSA,,INV,Nasonia giraulti,PRJNA339536,SAMN05894238,TSA,isolate: Rv2xu,"dev_stage: Adult female,host: Sarcophaga bullata,isolation_source: Lab strain,tissue_type: Venom gland and venom reservoir",633927,865,0,No,2017-11-02T00:00:00Z,2017-11-02T00:00:00Z
+GFPA01,TSA,,INV,Urolepis rufipes,PRJNA339536,SAMN05894235,TSA,,"dev_stage: Adult female,host: Sarcophaga bullata,isolation_source: Lab strain,tissue_type: Venom gland and venom reservoir",827985,1232,0,No,2017-11-02T00:00:00Z,2017-11-02T00:00:00Z
+GFPB01,TSA,,INV,Trichomalopsis sarcophagae,PRJNA339536,SAMN05894236,TSA,,"dev_stage: Adult female,host: Sarcophaga bullata,isolation_source: Lab strain,tissue_type: Venom gland and venom reservoir",692070,1040,0,No,2017-11-02T00:00:00Z,2017-11-02T00:00:00Z
+GFPC01,TSA,,INV,Nasonia vitripennis,PRJNA339536,SAMN05894237,TSA,isolate: AsymCx,"dev_stage: Adult female,host: Sarcophaga bullata,isolation_source: Lab strain,tissue_type: Venom gland and venom reservoir",664464,864,0,No,2017-11-02T00:00:00Z,2017-11-02T00:00:00Z
+GFTV01,TSA,,VRT,Malpolon insignitus,PRJNA395151,SAMN07372104,TSA; Targeted,,"dev_stage: adult,tissue_type: venom gland",74259,75,0,Yes,2017-12-04T00:00:00Z,2017-12-04T00:00:00Z
+GFUY01,TSA,,INV,Phoneutria nigriventer,PRJNA397584,SAMN07460649,TSA,isolate: Phoneutria nigriventer 20 individuals,"dev_stage: adult,isolation_source: Santa Barbara region\, Minas Gerais-Brazil,tissue_type: venom glands",46283445,49992,0,No,2018-01-23T00:00:00Z,2018-01-23T00:00:00Z
+GFWW01,TSA,,VRT,Bothrops moojeni,PRJNA376246,SAMN06368406,TSA,,"dev_stage: adult,tissue_type: venom gland",85864624,131124,0,No,2017-11-09T00:00:00Z,2017-10-24T00:00:00Z

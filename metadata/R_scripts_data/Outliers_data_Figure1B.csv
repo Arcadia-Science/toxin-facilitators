@@ -1,0 +1,702 @@
+﻿Species,Cat,protein_id,toxin_hit,accession_hit_description,Toxin_hit_cat
+Glycera tridactyla,Bloodworm,Glycera_tridactyla_GART01.transdecoder.pep_id_GART01000948.1.p1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GDAZ01_id_lcl|GDAZ01000153.1_prot_JAS04400.1_1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GDAZ01_id_lcl|GDAZ01000017.1_prot_JAS04536.1_1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GJUI01.transdecoder.pep_id_GJUI01000034.1.p1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GDAZ01_id_lcl|GDAZ01000064.1_prot_JAS04489.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GDAZ01_id_lcl|GDAZ01000065.1_prot_JAS04488.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GDAZ01_id_lcl|GDAZ01000147.1_prot_JAS04406.1_1,P0DJG3,Thrombin-like enzyme TLBan (SVTLE TLBan) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),Serine protease
+Agkistrodon conanti,Snake,Agkistrodon_conanti_GJUI01.transdecoder.pep_id_GJUI01000037.1.p1,P0DJG3,Thrombin-like enzyme TLBan (SVTLE TLBan) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),Serine protease
+Agkistrodon contortrix,Snake,Agkistrodon_contortrix_contortrix_GDAY02_id_lcl|GDAY02002911.1_prot_JAV48556.1_1,P0DL42,Snake venom vascular endothelial growth factor toxin VR-1' (svVEGF) (VEGF-F),Endothelial growth factor
+Agkistrodon contortrix,Snake,Agkistrodon_contortrix_contortrix_GDAY02_id_lcl|GDAY02002453.1_prot_JAV51427.1_1,P0DJG3,Thrombin-like enzyme TLBan (SVTLE TLBan) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),Serine protease
+Agkistrodon contortrix,Snake,Agkistrodon_contortrix_GJUG01.transdecoder.pep_id_GJUG01000003.1.p1,P0DJG3,Thrombin-like enzyme TLBan (SVTLE TLBan) (EC 3.4.21.-) (Fibrinogen-clotting enzyme) (Snake venom serine protease) (SVSP),Serine protease
+Agkistrodon contortrix,Snake,Agkistrodon_contortrix_contortrix_GDAY02_id_lcl|GDAY02000140.1_prot_JAV51273.1_1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Aspidelaps scutatus,Snake,Aspidelaps_scutatus_GHOC01.transdecoder.pep_id_GHOC01000780.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Boiga irregularis,Snake,Boiga_irregularis_GBSH01_id_lcl|GBSH01000287.1_prot_JAG68737.1_1,P85031,Techylectin-like protein,Lectin
+Boiga irregularis,Snake,Boiga_irregularis_GBSH01_id_lcl|GBSH01000088.1_prot_JAG68936.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Boiga irregularis,Snake,Boiga_irregularis_GDBA01_id_lcl|GDBA01000088.1_prot_JAS04573.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Boiga irregularis,Snake,Boiga_irregularis_GBSH01_id_lcl|GBSH01000280.1_prot_JAG68744.1_1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Bothrops atrox,Snake,Bothrops_atrox_GEDR01_id_lcl|GEDR01000079.1_prot_JAV01883.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops atrox,Snake,Bothrops_atrox_GEDR01_id_lcl|GEDR01000082.1_prot_JAV01880.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops atrox,Snake,Bothrops_atrox_GEDR01_id_lcl|GEDR01000073.1_prot_JAV01889.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01001426.1.p1,P0DM53,C-type lectin galatrox (CTL),C-type Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01042806.1.p1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01001005.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003276.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01001395.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01004807.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003256.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01002983.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003156.1.p2,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01001556.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01001427.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01002061.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003785.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003855.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01002175.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003197.1.p1,P31989,Zinc metalloproteinase/disintegrin [Cleaved into: Snake venom metalloproteinase (SVMP) (EC 3.4.24.-); Disintegrin jararacin (Platelet aggregation activation inhibitor); Disintegrin jararacin-AGEEC; Disintegrin jararacin-GEEC; Disintegrin jararacin-EC],Metalloproteinase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01044030.1.p1,P0DPS4,Basic phospholipase A2 Cc2-PLA2 (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01004899.1.p1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003432.1.p1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01003513.1.p1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Bothrops jararaca,Snake,Bothrops_jararaca_GFJM01.transdecoder.pep_id_GFJM01015998.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01069657.1.p1,A5X2W8,Three-finger toxin 3,3FTx
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01025083.1.p2,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01062113.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01035171.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01059428.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01046586.1.p1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01020754.1.p1,P62390,Cytotoxin 11 (Toxin CM-13a),Cytotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01029218.1.p1,P62390,Cytotoxin 11 (Toxin CM-13a),Cytotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01058539.1.p1,P0DL42,Snake venom vascular endothelial growth factor toxin VR-1' (svVEGF) (VEGF-F),Endothelial growth factor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01059841.1.p1,Q8AY75,Calglandulin,Endothelial growth factor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01055529.1.p1,Q8AY75,Calglandulin,Endothelial growth factor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01013845.1.p1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01047221.1.p1,P85031,Techylectin-like protein,Lectin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01029031.1.p1,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01070269.1.p1,P86092,Zinc metalloproteinase leucurolysin-B (Leuc-B) (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01019264.1.p1,P86092,Zinc metalloproteinase leucurolysin-B (Leuc-B) (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01053043.1.p1,D9IX98,Natriuretic peptide Oh-NP,Natriuretic peptide
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01049330.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01050072.1.p2,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01061903.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01066927.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01020594.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01043527.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01036847.1.p1,F8J2B3,Long neurotoxin 13 (LNTX-13),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01052447.1.p1,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01046687.1.p1,Q9PTA2,Beta-bungarotoxin B chain-like (BL1),Neurotoxin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01064063.1.p1,P83234,Ohanin,Ohanin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01058633.1.p1,P83234,Ohanin,Ohanin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01053343.1.p1,P83234,Ohanin,Ohanin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01061048.1.p1,P83234,Ohanin,Ohanin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01067561.1.p1,P83234,Ohanin,Ohanin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01046420.1.p2,P0CJ14,Venom protein 302,Other
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01022817.1.p1,P0CJ14,Venom protein 302,Other
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01040436.1.p1,P0CJ14,Venom protein 302,Other
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01042455.1.p2,P0CJ14,Venom protein 302,Other
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01015097.1.p1,Q9W7J4,Acidic phospholipase A2 1 (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase) (Pt-PLA1),Phospholipase
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01025316.1.p1,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01034041.1.p1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01066355.1.p1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01015670.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01041205.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01072144.1.p1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01018067.1.p1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01053914.1.p1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Bungarus multicinctus,Snake,Bungarus_multicinctus_GIKH01.transdecoder.pep_id_GIKH01021613.1.p1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Centruroides hentzi,Snake,Centruroides_hentzi_GFWZ01.transdecoder.pep_id_GFWZ01000084.1.p1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Crotalus durissus,Snake,Crotalus_durissus_terrificus_HAGK01.transdecoder.pep_id_HAGK01000018.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002414.1_prot_JAG43656.1_1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001545.1_prot_JAG46073.1_1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000091.1_prot_JAS04807.1_1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001496.1_prot_JAG46122.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000042.1_prot_JAS04856.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001492.1_prot_JAG46126.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001493.1_prot_JAG46125.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001494.1_prot_JAG46124.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000038.1_prot_JAS04860.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001497.1_prot_JAG46121.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000039.1_prot_JAS04859.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000040.1_prot_JAS04858.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000043.1_prot_JAS04855.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01001495.1_prot_JAG46123.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GDBD01_id_lcl|GDBD01000041.1_prot_JAS04857.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002425.1_prot_JAG43645.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002427.1_prot_JAG43643.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002424.1_prot_JAG43646.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01003063.1_prot_JAA94880.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002426.1_prot_JAG43644.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01003060.1_prot_JAA94883.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01003061.1_prot_JAA94882.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01003064.1_prot_JAA94879.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002431.1_prot_JAG43639.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002432.1_prot_JAG43638.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002433.1_prot_JAG43637.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01002434.1_prot_JAG43636.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01000563.1_prot_JAA97380.1_1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01000800.1_prot_JAG45270.1_1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01001831.1_prot_JAG44239.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01003051.1_prot_JAA94892.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Crotalus horridus,Snake,Crotalus_horridus_GBKD01_id_lcl|GBKD01000125.1_prot_JAG47493.1_1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Crotalus horridus,Snake,Crotalus_horridus_GBKC01_id_lcl|GBKC01000209.1_prot_JAG45861.1_1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Crotalus horridus,Snake,Crotalus_horridus_GAAZ01_id_lcl|GAAZ01000150.1_prot_JAA97793.1_1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Crotalus oreganus,Snake,Crotalus_oreganus_helleri_GAKR01_id_lcl|GAKR01000013.1_prot_JAA97972.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus oreganus,Snake,Crotalus_oreganus_helleri_GAKQ01_id_lcl|GAKQ01000024.1_prot_JAA97945.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus oreganus,Snake,Crotalus_oreganus_helleri_GAKS01_id_lcl|GAKS01000025.1_prot_JAA97991.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus oreganus,Snake,Crotalus_oreganus_helleri_GAKR01_id_lcl|GAKR01000014.1_prot_JAA97971.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Crotalus simus,Snake,Crotalus_simus_GECP01.transdecoder.pep_id_GECP01000254.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Crotalus simus,Snake,Crotalus_simus_GECP01.transdecoder.pep_id_GECP01000203.1.p1,O93516,Zinc metalloproteinase/disintegrin [Cleaved into: Snake venom metalloproteinase (SVMP) (EC 3.4.24.-); Disintegrin salmosin-2],Metalloproteinase
+Crotalus simus,Snake,Crotalus_simus_GECP01.transdecoder.pep_id_GECP01000233.1.p1,D1MZV3,Natriuretic peptide,Natriuretic peptide
+Crotalus simus,Snake,Crotalus_simus_GECP01.transdecoder.pep_id_GECP01000092.1.p2,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Dendroaspis jamesoni,Snake,Dendroaspis_jamesoni_jamesoni_GHPA01.transdecoder.pep_id_GHPA01000152.1.p2,A0A4P1LYC9,Dendroaspis polylepis MT9 (Three-finger toxin) (3FTx),3FTx
+Dendroaspis jamesoni,Snake,Dendroaspis_jamesoni_kaimosae_GHPB01.transdecoder.pep_id_GHPB01000049.1.p1,Q0NZX8,Zinc metalloproteinase-disintegrin-like bothrojarin-3 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Dendroaspis polylepis,Snake,Dendroaspis_polylepis_GHPD01.transdecoder.pep_id_GHPD01000722.1.p1,P0CJ14,Venom protein 302,Other
+Dendroaspis viridis,Snake,Dendroaspis_viridis_GHPC01.transdecoder.pep_id_GHPC01000014.1.p1,Q0NZX8,Zinc metalloproteinase-disintegrin-like bothrojarin-3 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Dispholidus typus,Snake,Dispholidus_typus_GHOQ01.transdecoder.pep_id_GHOQ01000568.1.p1,P31989,Zinc metalloproteinase/disintegrin [Cleaved into: Snake venom metalloproteinase (SVMP) (EC 3.4.24.-); Disintegrin jararacin (Platelet aggregation activation inhibitor); Disintegrin jararacin-AGEEC; Disintegrin jararacin-GEEC; Disintegrin jararacin-EC],Metalloproteinase
+Dispholidus typus,Snake,Dispholidus_typus_GHOQ01.transdecoder.pep_id_GHOQ01000144.1.p1,Q0NZX8,Zinc metalloproteinase-disintegrin-like bothrojarin-3 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Erythrolamprus miliaris,Snake,Erythrolamprus_miliaris_GEFK01.transdecoder.pep_id_GEFK01000191.1.p1,P0C6S4,Disintegrin eristostatin,Disintegrin
+Erythrolamprus miliaris,Snake,Erythrolamprus_miliaris_GEFK01.transdecoder.pep_id_GEFK01000187.1.p1,P0DJH4,Zinc metalloproteinase alsophinase (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Erythrolamprus miliaris,Snake,Erythrolamprus_miliaris_GEFK01.transdecoder.pep_id_GEFK01000188.1.p1,P0DJH4,Zinc metalloproteinase alsophinase (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Malpolon insignitus,Snake,Malpolon_insignitus_GFTV01.transdecoder.pep_id_GFTV01000075.1.p1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Malpolon insignitus,Snake,Malpolon_insignitus_GFTV01.transdecoder.pep_id_GFTV01000057.1.p1,P86976,Zinc metalloproteinase barnettlysin-1 (EC 3.4.24.-) (Barnettlysin-I) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Micrurus fulvius,Snake,Micrurus_fulvius_GAEP01_id_lcl|GAEP01000821.1_prot_JAB54000.1_1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Naja atra,Snake,Naja_atra_GIJE01.transdecoder.pep_id_GIJE01000341.1.p1,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Naja atra,Snake,Naja_atra_GIJE01.transdecoder.pep_id_GIJE01000038.1.p1,Q0NZX8,Zinc metalloproteinase-disintegrin-like bothrojarin-3 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Naja naja,Snake,Naja_naja_GHRX01.transdecoder.pep_id_GHRX01000496.1.p1,P0DM53,C-type lectin galatrox (CTL),C-type Lectin
+Naja nigricollis,Snake,Naja_nigricollis_GIJF01.transdecoder.pep_id_GIJF01000442.1.p1,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Naja nivea,Snake,Naja_nivea_GIJH01.transdecoder.pep_id_GIJH01000368.1.p1,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Naja nubiae,Snake,Naja_nubiae_GIJI01.transdecoder.pep_id_GIJI01001024.1.p1,A0A4P1LYC9,Dendroaspis polylepis MT9 (Three-finger toxin) (3FTx),3FTx
+Naja pallida,Snake,Naja_pallida_GIJJ01.transdecoder.pep_id_GIJJ01000252.1.p1,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Phalotris mertensi,Snake,Phalotris_mertensi_GEHL01_id_lcl|GEHL01006881.1_prot_JAS03113.1_1,P0C6S0,Snake venom metalloproteinase BnP1 (SVMP) (EC 3.4.24.-),Metalloproteinase
+Phalotris mertensi,Snake,Phalotris_mertensi_GEHL01_id_lcl|GEHL01006887.1_prot_JAS03119.1_1,P0DJH4,Zinc metalloproteinase alsophinase (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Phalotris mertensi,Snake,Phalotris_mertensi_GEHL01_id_lcl|GEHL01006889.1_prot_JAS03121.1_1,Q0NZX8,Zinc metalloproteinase-disintegrin-like bothrojarin-3 (EC 3.4.24.-) (Snake venom metalloproteinase) (SVMP),Metalloproteinase
+Phalotris mertensi,Snake,Phalotris_mertensi_GEHL01_id_lcl|GEHL01006909.1_prot_JAS03141.1_1,D1MZV3,Natriuretic peptide,Natriuretic peptide
+Philodryas olfersii,Snake,Philodryas_olfersii_GEFE01.transdecoder.pep_id_GEFE01000068.1.p1,Q6T6T2,Disintegrin gabonin-2 (Bitisgabonin-2),Disintegrin
+Pseudagkistrodon rudis,Snake,Pseudagkistrodon_rudis_GDKV01.transdecoder.pep_id_GDKV01015098.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000119.1_prot_JAS05370.1_1,B3EWP2,Hyaluronidase CdtHya1 (Hya) (EC 3.2.1.35) (Hyaluronoglucosaminidase) (Venom spreading factor),Hyaluronidase
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000042.1_prot_JAS05447.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000045.1_prot_JAS05444.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000041.1_prot_JAS05448.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000043.1_prot_JAS05446.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Sistrurus miliarius,Snake,Sistrurus_miliarius_barbouri_GDBJ01_id_lcl|GDBJ01000044.1_prot_JAS05445.1_1,P0DUN4,Acidic phospholipase A2 braziliase-II (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Thamnodynastes strigatus,Snake,Thamnodynastes_strigatus_GEFC01.transdecoder.pep_id_GEFC01000037.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Vermicella annulata,Snake,Vermicella_annulata_GAHJ01_id_lcl|GAHJ01000023.1_prot_JAA74992.1_1,P17347,Disintegrin metalloproteinase/disintegrin echistatin [Cleaved into: Snake venom metalloproteinase (SVMP) (EC 3.4.24.-); Disintegrin echistatin (Ech) (Carinatin) (Disintegrin echistatin-alpha-1) (Platelet aggregation activation inhibitor); Disintegrin echistatin-alpha-2],Metalloproteinase
+Vipera aspis,Snake,Vipera_aspis_GIJB01.transdecoder.pep_id_GIJB01000593.1.p1,P0DJL4,Snaclec VP12 subunit A,Lectin
+Hadrurus spadix,Scorpion,Hadrurus_spadix_GFAH01_id_lcl|GFAH01000160.1_prot_JAV48229.1_1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Hadrurus spadix,Scorpion,Hadrurus_spadix_GFAH01_id_lcl|GFAH01000031.1_prot_JAV48358.1_1,P0C166,Potassium channel toxin alpha-KTx 6.12 (Anuroctoxin),Neurotoxin
+Hadrurus spadix,Scorpion,Hadrurus_spadix_GFAH01_id_lcl|GFAH01000050.1_prot_JAV48339.1_1,P0C166,Potassium channel toxin alpha-KTx 6.12 (Anuroctoxin),Neurotoxin
+Hadrurus spadix,Scorpion,Hadrurus_spadix_GFAH01_id_lcl|GFAH01000165.1_prot_JAV48224.1_1,A9QQ26,Venom allergen 5 (Antigen 5),Other
+Hadrurus spadix,Scorpion,Hadrurus_spadix_GFAH01_id_lcl|GFAH01000283.1_prot_JAV48106.1_1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Megacormus gertschi,Scorpion,Megacormus_gertschi_GFBG01_id_lcl|GFBG01000120.1_prot_JAW07047.1_1,P0C166,Potassium channel toxin alpha-KTx 6.12 (Anuroctoxin),Neurotoxin
+Superstitionia donensis,Scorpion,Superstitionia_donensis_GFCD01_id_lcl|GFCD01000006.1_prot_JAV45779.1_1,A0A7S8MVN3,Putative sodium channel toxin Ts41 (Putative NaTx) (Putative lipolysis-activating peptide) (Tityustoxin-41),Neurotoxin
+Superstitionia donensis,Scorpion,Superstitionia_donensis_GFCD01_id_lcl|GFCD01000009.1_prot_JAV45776.1_1,P0C166,Potassium channel toxin alpha-KTx 6.12 (Anuroctoxin),Neurotoxin
+Superstitionia donensis,Scorpion,Superstitionia_donensis_GFCD01_id_lcl|GFCD01000018.1_prot_JAV45767.1_1,P0C166,Potassium channel toxin alpha-KTx 6.12 (Anuroctoxin),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000040.1.p1,P0C2V2,U15-hexatoxin-Mg1b (U15-HXTX-Mg1b) (Neurotoxin magi-16),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000010.1.p1,P0C2V2,U15-hexatoxin-Mg1b (U15-HXTX-Mg1b) (Neurotoxin magi-16),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000035.1.p1,P0C2V2,U15-hexatoxin-Mg1b (U15-HXTX-Mg1b) (Neurotoxin magi-16),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000027.1.p1,P0C2V2,U15-hexatoxin-Mg1b (U15-HXTX-Mg1b) (Neurotoxin magi-16),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000011.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000052.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000113.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000029.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000001.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000037.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000043.1.p1,Q75WG5,Delta-hexatoxin-Mg1b (Delta-HXTX-Mg1b) (Delta-atracotoxin-9) (Neurotoxin magi-14),Neurotoxin
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000076.1.p1,W4VRV7,Toxin ICK-42,Other
+Hadronyche infensa,Spider,Hadronyche_infensa_HACE01.transdecoder.pep_id_HACE01000104.1.p1,W4VSC2,Peptide 1 (Prokineticin-1),Other
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GBSI01_id_lcl|GBSI01000046.1_prot_JAC96449.1_1,Q6T6T2,Disintegrin gabonin-2 (Bitisgabonin-2),Disintegrin
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GDBE01_id_lcl|GDBE01000046.1_prot_JAS04931.1_1,Q6T6T2,Disintegrin gabonin-2 (Bitisgabonin-2),Disintegrin
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GBSI01_id_lcl|GBSI01000043.1_prot_JAC96452.1_1,P0C7A9,Snake venom metalloproteinase bothrojaractivase (SVMP) (EC 3.4.24.-),Metalloproteinase
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GBSI01_id_lcl|GBSI01000044.1_prot_JAC96451.1_1,P0C7A9,Snake venom metalloproteinase bothrojaractivase (SVMP) (EC 3.4.24.-),Metalloproteinase
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GBSI01_id_lcl|GBSI01000045.1_prot_JAC96450.1_1,P0C7A9,Snake venom metalloproteinase bothrojaractivase (SVMP) (EC 3.4.24.-),Metalloproteinase
+Hypsiglena sp.,Spider,Hypsiglena_sp._JMG-2014_GDBE01_id_lcl|GDBE01000044.1_prot_JAS04933.1_1,P0C7A9,Snake venom metalloproteinase bothrojaractivase (SVMP) (EC 3.4.24.-),Metalloproteinase
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01002790.1.p1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01002691.1.p1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01003495.1.p1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01007071.1.p1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01000593.1.p1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01002298.1.p1,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01007681.1.p1,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01009335.1.p1,D8VNT0,Ryncolin-4,Veficolin
+Latrodectus tredecimguttatus,Spider,Latrodectus_tredecimguttatus_GANL01.transdecoder.pep_id_GANL01009336.1.p1,D8VNT0,Ryncolin-4,Veficolin
+Phoneutria nigriventer,Spider,Phoneutria_nigriventer_GFUY01.transdecoder.pep_id_GFUY01026673.1.p1,Q1HLC0,Hemolin (EC 3.4.21.-) (Lonomia obliqua Stuart factor activator) (Losac),Hemolin
+Phoneutria nigriventer,Spider,Phoneutria_nigriventer_GFUY01.transdecoder.pep_id_GFUY01026672.1.p1,Q1HLC0,Hemolin (EC 3.4.21.-) (Lonomia obliqua Stuart factor activator) (Losac),Hemolin
+Phoneutria nigriventer,Spider,Phoneutria_nigriventer_GFUY01.transdecoder.pep_id_GFUY01023789.1.p1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Phoneutria nigriventer,Spider,Phoneutria_nigriventer_GFUY01.transdecoder.pep_id_GFUY01004349.1.p1,D8VNT0,Ryncolin-4,Veficolin
+Hemiscolopendra marginata,Centipede,Hemiscolopendra_marginata_GHBY01.transdecoder.pep_id_GHBY01000671.1.p1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Scolopendra morsitans,Centipede,Scolopendra_morsitans_GHKQ01.transdecoder.pep_id_GHKQ01000487.1.p1,P0DQE3,U-scoloptoxin(16)-Sa1a (U-SLPTX(16)-Sa1a),Cysteine rich protein
+Scolopendra morsitans,Centipede,Scolopendra_morsitans_GHKQ01.transdecoder.pep_id_GHKQ01000536.1.p1,P0DQF3,U-scoloptoxin(21)-Sm2a (U-SLPTX(21)-Sm2a),Cysteine rich protein
+Scolopendra morsitans,Centipede,Scolopendra_morsitans_GHKQ01.transdecoder.pep_id_GHKQ01000476.1.p1,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Scolopendra morsitans,Centipede,Scolopendra_morsitans_GHKQ01.transdecoder.pep_id_GHKQ01000484.1.p1,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Scolopocryptops sexspinosus,Centipede,Scolopocryptops_sexspinosus_GHBZ01.transdecoder.pep_id_GHBZ01000748.1.p1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Scolopocryptops sexspinosus,Centipede,Scolopocryptops_sexspinosus_GHBZ01.transdecoder.pep_id_GHBZ01001430.1.p1,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Scolopocryptops sexspinosus,Centipede,Scolopocryptops_sexspinosus_GHBZ01.transdecoder.pep_id_GHBZ01000754.1.p1,P84032,U24-ctenitoxin-Pn1a (U24-CNTX-Pn1a) (Venom protein PN16C3),Neurotoxin
+Scolopocryptops sexspinosus,Centipede,Scolopocryptops_sexspinosus_GHBZ01.transdecoder.pep_id_GHBZ01001145.1.p1,P0CJ14,Venom protein 302,Other
+Scolopocryptops sexspinosus,Centipede,Scolopocryptops_sexspinosus_GHBZ01.transdecoder.pep_id_GHBZ01000948.1.p1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023073.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023074.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023072.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023070.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023071.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01025285.1.p1,P0DPW5,U-scoloptoxin(01)-Cw1a (U-SLPTX(01)-Cw1a),Cysteine rich protein
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01023313.1.p1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01027321.1.p1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01027322.1.p1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01027323.1.p1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01043167.1.p2,Q1HLC0,Hemolin (EC 3.4.21.-) (Lonomia obliqua Stuart factor activator) (Losac),Hemolin
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01043154.1.p1,Q1HLC0,Hemolin (EC 3.4.21.-) (Lonomia obliqua Stuart factor activator) (Losac),Hemolin
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01045436.1.p1,A0A1U9VX91,Glycerotoxin paralog 1 (GLTx paralog 1),Neurotoxin
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01040457.1.p1,P0DKP1,Turripeptide OL55-like,Neurotoxin
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01042270.1.p1,P0CJ14,Venom protein 302,Other
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01042273.1.p1,P0CJ14,Venom protein 302,Other
+Ampulex compressa,Wasp and Ants,Ampulex_compressa_GFCP01.transdecoder.pep_id_GFCP01025719.1.p1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Cotesia vestalis,Wasp and Ants,Cotesia_vestalis_GAQF01.transdecoder.pep_id_GAQF01001145.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Cotesia vestalis,Wasp and Ants,Cotesia_vestalis_GAQF01.transdecoder.pep_id_GAQF01000361.1.p1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Cotesia vestalis,Wasp and Ants,Cotesia_vestalis_GAQF01.transdecoder.pep_id_GAQF01014859.1.p1,P0DJ47,Kunitz-type serine protease inhibitor BmKTT-3 (Delta-KTx 1.2),Serine protease inhibitor
+Cotesia vestalis,Wasp and Ants,Cotesia_vestalis_GAQF01.transdecoder.pep_id_GAQF01018445.1.p1,A7X4K1,Waprin-Phi1,Waprin
+Diadromus collaris,Wasp and Ants,Diadromus_collaris_GAPR01.transdecoder.pep_id_GAPR01025338.1.p1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Diadromus collaris,Wasp and Ants,Diadromus_collaris_GAPR01.transdecoder.pep_id_GAPR01000768.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Diadromus collaris,Wasp and Ants,Diadromus_collaris_GAPR01.transdecoder.pep_id_GAPR01027111.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Microplitis demolitor,Wasp and Ants,Microplitis_demolitor_GANH01.transdecoder.pep_id_GANH01008653.1.p1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Microplitis demolitor,Wasp and Ants,Microplitis_demolitor_GANH01.transdecoder.pep_id_GANH01002053.1.p2,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Microplitis demolitor,Wasp and Ants,Microplitis_demolitor_GANH01.transdecoder.pep_id_GANH01002054.1.p2,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Microplitis demolitor,Wasp and Ants,Microplitis_demolitor_GANH01.transdecoder.pep_id_GANH01000344.1.p1,Q5ECE3,Lopap (EC 3.4.21.-) (Lipocalin-1/4) (Prothrombin activator),prothrombin activator
+Microplitis demolitor,Wasp and Ants,Microplitis_demolitor_GANH01.transdecoder.pep_id_GANH01000434.1.p1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01014714.1.p1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01009179.1.p1,A0A0F7Z3J2,Thyrostimulin alpha-2 subunit,Other
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01001469.1.p1,Q5EF78,Icarapin (Venom protein 2) (allergen Api m 10),other
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01013193.1.p1,Q5EF78,Icarapin (Venom protein 2) (allergen Api m 10),other
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01003446.1.p1,Q5EF78,Icarapin (Venom protein 2) (allergen Api m 10),other
+Psyttalia concolor,Wasp and Ants,Psyttalia_concolor_GCDX01.transdecoder.pep_id_GCDX01003608.1.p1,Q5EF78,Icarapin (Venom protein 2) (allergen Api m 10),other
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01038761.1.p1,P0DPW5,U-scoloptoxin(01)-Cw1a (U-SLPTX(01)-Cw1a),Cysteine rich protein
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01008458.1.p1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01003715.1.p1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01003319.1.p1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01024449.1.p1,A0A6B9KZ59,U-reduvitoxin-Pr21 (U-RDTX-Pr21) (Protease inhibitor) [Cleaved into: U-reduvitoxin-Pr21a.1 (U-RDTX-Pr21a.1); U-reduvitoxin-Pr21a.2 (U-RDTX-Pr21a.2); U-reduvitoxin-Pr21a.3 (U-RDTX-Pr21a.3)],Protease inhibitor
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01024803.1.p1,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01038815.1.p1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Pteromalus puparum,Wasp and Ants,Pteromalus_puparum_GECT01.transdecoder.pep_id_GECT01005953.1.p1,P0DJ47,Kunitz-type serine protease inhibitor BmKTT-3 (Delta-KTx 1.2),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_67586,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_83050,P0DQF3,U-scoloptoxin(21)-Sm2a (U-SLPTX(21)-Sm2a),Cysteine rich protein
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_83117,P0DQF3,U-scoloptoxin(21)-Sm2a (U-SLPTX(21)-Sm2a),Cysteine rich protein
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-29733,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_78577,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_18810,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_58384,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_54245,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_164774,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_56606,Q8AY75,Calglandulin,Endothelial growth factor
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-524792,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_50990,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_50801,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_58769,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_174320,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_37341,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_46146,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_26626,P85031,Techylectin-like protein,Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_84400,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_198550,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_100225,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_106717,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_101239,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_104642,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_196800,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_88649,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_87032,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_204236,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_110133,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_100586,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_49711,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_89996,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_88085,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_189105,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_45733,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_92635,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_102727,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_97587,B5AJT2,Venom metalloproteinase 1 (EpMP1),Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_86657,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_71812,B1P1J1,U33-theraphotoxin-Cg1c (U33-TRTX-Cg1c) (Jingzhaotoxin-70) (JZTX-70),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_76236,B1P1J1,U33-theraphotoxin-Cg1c (U33-TRTX-Cg1c) (Jingzhaotoxin-70) (JZTX-70),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_70389,B1P1J1,U33-theraphotoxin-Cg1c (U33-TRTX-Cg1c) (Jingzhaotoxin-70) (JZTX-70),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_70496,B1P1J1,U33-theraphotoxin-Cg1c (U33-TRTX-Cg1c) (Jingzhaotoxin-70) (JZTX-70),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_10271,Q25338,Delta-latroinsectotoxin-Lt1a (Delta-LIT-Lt1a) (Delta-latroinsectotoxin) (Delta-LIT),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_189774,Q25338,Delta-latroinsectotoxin-Lt1a (Delta-LIT-Lt1a) (Delta-latroinsectotoxin) (Delta-LIT),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_69328,Q5Y4U4,U8-agatoxin-Ao1a (U8-AGTX-Ao1a) (AgorTX_B6),Neurotoxin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_53760,F8S0Z7,Snake venom 5'-nucleotidase (5'-NT) (EC 3.1.3.5) (Ecto-5'-nucleotidase),Nucleotidase
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-1042136,L0GCW8,Toxin-like protein 14,Other
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_42282,L0GCW8,Toxin-like protein 14,Other
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_84810,P86468,Toxin Bcs III 15.09,Other
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_75989,P86468,Toxin Bcs III 15.09,Other
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-181157,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_17252,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_84525,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_50309,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_14393,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_4765,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_167979,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_109499,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-546359,Q202J4,Dermonecrotic toxin SPH (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),Phospholipase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_27408,Q202J4,Dermonecrotic toxin SPH (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),Phospholipase
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_105195,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_49411,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_33024,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_201946,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_35989,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_175006,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_6930,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_175005,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-961147,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_40704,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_86004,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_165766,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_165767,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_75575,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_70936,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_72331,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_41661,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_71522,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_68070,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_178818,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_178819,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_215945,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_200053,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_44081,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_110474,A0A3G5BID2,U-Kazal-Dg21.2,Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_99591,A0A3G5BID2,U-Kazal-Dg21.2,Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_12210,A0A3G5BID2,U-Kazal-Dg21.2,Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_85704,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_191756,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_91753,P0DJ47,Kunitz-type serine protease inhibitor BmKTT-3 (Delta-KTx 1.2),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_39564,P0DJ47,Kunitz-type serine protease inhibitor BmKTT-3 (Delta-KTx 1.2),Serine protease inhibitor
+Amblyomma americanum,Ticks,All_sequences_Mulenga2020_id_Aam-471922,Q6T269,Kunitz-type serine protease inhibitor bitisilin-3 (Two-Kunitz protease inhibitor),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_24661,Q6T269,Kunitz-type serine protease inhibitor bitisilin-3 (Two-Kunitz protease inhibitor),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_191202,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_63016,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_173453,W4VSH9,Kunitz-type U19-barytoxin-Tl1a (U19-BATX-Tl1a) (Kunitz-type serine protease inhibitor Kunitz-1),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Mulenga_AA_48556,W4VSH9,Kunitz-type U19-barytoxin-Tl1a (U19-BATX-Tl1a) (Kunitz-type serine protease inhibitor Kunitz-1),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_173454,W4VSH9,Kunitz-type U19-barytoxin-Tl1a (U19-BATX-Tl1a) (Kunitz-type serine protease inhibitor Kunitz-1),Serine protease inhibitor
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_88178,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_15719,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_22311,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_70867,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma americanum,Ticks,Trove_Mulenga_NCBI_Ambl-Am_AA_id_Trove_AA_88727,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma cajenese,Ticks,GBBK01.1_id_JAC22990.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Amblyomma cajenese,Ticks,GBBK01.1_id_JAC19257.1,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794882.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6791147.1,P0DPU6,Scoloptoxin SSD20,Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6769602.1,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6770244.1,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6766849.1,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6767336.1,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6769942.1,P0DQE7,U-scoloptoxin(18)-Er1a (U-SLPTX(18)-Er1a),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6790001.1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6786509.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794065.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794401.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794602.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6775890.1,Q8AY75,Calglandulin,Endothelial growth factor
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6790531.1,P85031,Techylectin-like protein,Lectin
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6784139.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6786436.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6782695.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6775282.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6769987.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6773609.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6788776.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6782155.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6788255.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6780658.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6771035.1,C9D7R2,Astacin-like metalloprotease toxin 2 (EC 3.4.24.-) (Loxosceles astacin-like protease 2) (LALP2),Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6789175.1,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794447.1,U6BLN5,Venom metalloproteinase BumaMPs1 (MPs1) (EC 3.4.24.-) (Acid trehalase),Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6785513.1,U6BLN5,Venom metalloproteinase BumaMPs1 (MPs1) (EC 3.4.24.-) (Acid trehalase),Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6768238.1,V9Z9A3,Venom metalloproteinase antarease-like TserMP_B (VMPA) (EC 3.4.24.-),Metalloproteinase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6767116.1,F8S0Z7,Snake venom 5'-nucleotidase (5'-NT) (EC 3.1.3.5) (Ecto-5'-nucleotidase),Nucleotidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6768901.1,P0C5F3,Venom peptide La1,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6769153.1,P86468,Toxin Bcs III 15.09,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6777676.1,P86468,Toxin Bcs III 15.09,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6775460.1,P86468,Toxin Bcs III 15.09,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6786408.1,P86468,Toxin Bcs III 15.09,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6794604.1,P86468,Toxin Bcs III 15.09,Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6777494.1,Q8JFE6,Prokineticin Bm8-a (Prokineticin Bv8-like peptide 1) (Bv8-LP1),Other
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6777336.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6786069.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6786443.1,D9IFL3,Anticoagulant protein rhipilin-1,Rhipilin
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6773147.1,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6766963.1,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6771019.1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Amblyomma maculatum,Ticks,GJDI01.1_id_MCL6778879.1,D8VNT0,Ryncolin-4,Veficolin
+Amblyomma triste,Ticks,GBBM01.1_id_JAC29971.1,Q8AY75,Calglandulin,Endothelial growth factor
+Amblyomma triste,Ticks,GBBM01.1_id_JAC28722.1,I6VXS1,Anticoagulant protein rhipilin-2,Rhipilin
+Amblyomma tuberculatum,Ticks,GIDH01.1_id_NOV52194.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Amblyomma tuberculatum,Ticks,GIDH01.1_id_NOV53147.1,Q8MTX1,U3-aranetoxin-Ce1a (U3-AATX-Ce1a) (Neurotoxic peptide caeron),Neurotoxin
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7945836.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7945308.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7942249.1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7960414.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7953761.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7959612.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7946057.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7964775.1,P0DQA2,U-scoloptoxin(11)-Sm7a (U-SLPTX(11)-Sm7a),Cysteine rich protein
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7936683.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7950443.1,Q75WF2,Plancitoxin-1 (EC 3.1.22.1) (Plancitoxin I) (Plan-I) [Cleaved into: Plancitoxin-1 subunit alpha; Plancitoxin-1 subunit beta],Cytotoxin
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7937797.1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7964658.1,P85031,Techylectin-like protein,Lectin
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7941684.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7937479.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7974686.1,B5AJT2,Venom metalloproteinase 1 (EpMP1),Metalloproteinase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7933722.1,Q5Y4U4,U8-agatoxin-Ao1a (U8-AGTX-Ao1a) (AgorTX_B6),Neurotoxin
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7950420.1,P0CJ14,Venom protein 302,Other
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7950418.1,P0CJ14,Venom protein 302,Other
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7949497.1,P0CJ14,Venom protein 302,Other
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7950064.1,Q4QXT9,Coagulation factor X (EC 3.4.21.6) [Cleaved into: Factor X light chain; Factor X heavy chain; Activated factor Xa heavy chain],Other
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7970776.1,Q66S17,Natterin-3 (EC 3.4.-.-),Other
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7941211.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7936622.1,Q5BLY5,Venom acid phosphatase Acph-1 (EC 3.1.3.2) (allergen Api m 3),prothrombin activator
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7974124.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Dermacentor silvarum,Ticks,GCA_013339745.2_BIME_Dsil_1.4_id_KAH7938261.1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9376241.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9377381.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9376230.1,P0DPU6,Scoloptoxin SSD20,Cysteine rich protein
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9367731.1,P0DPU6,Scoloptoxin SSD20,Cysteine rich protein
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9362388.1,P0DQA2,U-scoloptoxin(11)-Sm7a (U-SLPTX(11)-Sm7a),Cysteine rich protein
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9362853.1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9370099.1,P85031,Techylectin-like protein,Lectin
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9384965.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9363331.1,B5AJT2,Venom metalloproteinase 1 (EpMP1),Metalloproteinase
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9381560.1,C9D7R2,Astacin-like metalloprotease toxin 2 (EC 3.4.24.-) (Loxosceles astacin-like protease 2) (LALP2),Metalloproteinase
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9364526.1,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9365212.1,D2CFI7,Venom peptide MmKTx1 (BmTXLP1) (BmTXLP4),Other
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9368847.1,Q8WS88,Phospholipase A2 A2-hormotoxin-Apt1a (A2-HRTX-Apt1a) (AcPLA2) (EC 3.1.1.4) (Acarc) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9361829.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9369140.1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9375125.1,Q6T269,Kunitz-type serine protease inhibitor bitisilin-3 (Two-Kunitz protease inhibitor),Serine protease inhibitor
+Haemaphysalis longicornis,Ticks,GCA_013339765.2_BIME_HaeL_1.3_id_KAH9379321.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6929833.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6923671.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6932403.1,A0A218QX58,Cysteine-rich venom protein (CRIVP) (Cysteine-rich protein),CRIVP
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6932404.1,A0A218QX58,Cysteine-rich venom protein (CRIVP) (Cysteine-rich protein),CRIVP
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6926048.1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6942651.1,P0DPU1,Scoloptoxin SSD976 (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6939066.1,P0DQA2,U-scoloptoxin(11)-Sm7a (U-SLPTX(11)-Sm7a),Cysteine rich protein
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6931514.1,P0DQE9,U-scoloptoxin(19)-Sm1a (U-SLPTX(19)-Sm1a),Cysteine rich protein
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6942481.1,Q75WF2,Plancitoxin-1 (EC 3.1.22.1) (Plancitoxin I) (Plan-I) [Cleaved into: Plancitoxin-1 subunit alpha; Plancitoxin-1 subunit beta],Cytotoxin
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6938951.1,Q8AY75,Calglandulin,Endothelial growth factor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6921907.1,Q8AY75,Calglandulin,Endothelial growth factor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6940004.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6923424.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6938954.1,F8S0Z7,Snake venom 5'-nucleotidase (5'-NT) (EC 3.1.3.5) (Ecto-5'-nucleotidase),Nucleotidase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6922639.1,J3S9D9,Reticulocalbin-2 (Taipoxin-associated calcium-binding protein 49 homolog),Other
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6933639.1,P85843,"Alpha-amylase (EC 3.2.1.1) (1,4-alpha-D-glucan glucanohydrolase)",Other
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6948042.1,Q66S17,Natterin-3 (EC 3.4.-.-),Other
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6945807.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6925383.1,I7GQA7,Phospholipase A(2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6929682.1,Q8WS88,Phospholipase A2 A2-hormotoxin-Apt1a (A2-HRTX-Apt1a) (AcPLA2) (EC 3.1.1.4) (Acarc) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6936707.1,Q18DC8,Renin (EC 3.4.23.15) (Angiotensinogenase) (Renin-like aspartic protease EOC123) (SVAP EOC123) (Snake venom aspartic protease EOC123),Protease
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6926581.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6926582.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6922786.1,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6923330.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6946963.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6930251.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6921618.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6929037.1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6931703.1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6931702.1,Q8MQS8,Venom serine protease 34 (SP34) (EC 3.4.21.-) (allergen Api m 7),Serine protease 
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6929445.1,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Hyalomma asiaticum,Ticks,GCA_013339685.2_BIME_Hyas_1.3_id_KAH6925487.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Hyalomma excavatum,Ticks,GEFH01P.1_id_JAP66995.1,B1P1J3,Cystatin-1 (Cystatin JZTX-75),Cysteine protease inhibitor
+Hyalomma excavatum,Ticks,GEFH01P.1_id_JAP66300.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01008345.1.p1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01008344.1.p1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01007370.1.p1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01009722.1.p1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01023401.1.p1,Q8MQS8,Venom serine protease 34 (SP34) (EC 3.4.21.-) (allergen Api m 7),Serine protease 
+Ixodes persulcatus,Ticks,GBXQ01.1_id_GBXQ01008478.1.p1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0425097.1,P0DPU6,Scoloptoxin SSD20,Cysteine rich protein
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0427593.1,P0DPW3,U-scoloptoxin(01)-Tl1a (U-SLPTX(01)-Tl1a),Cysteine rich protein
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0432454.1,P0DQE3,U-scoloptoxin(16)-Sa1a (U-SLPTX(16)-Sa1a),Cysteine rich protein
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0409971.1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0423568.1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0439215.1,P83906,Vascular endothelial growth factor A (VEGF-A) (Vascular permeability factor) (VPF),Endothelial growth factor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0433182.1,Q8AY75,Calglandulin,Endothelial growth factor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0423433.1,P85031,Techylectin-like protein,Lectin
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0422500.1,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0412557.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0413747.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0423114.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0410478.1,P0DKP1,Turripeptide OL55-like,Neurotoxin
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0421830.1,P0DSI2,Phospholipase A1 (PLA1) (EC 3.1.1.32) (Venom allergen 1),Phospholipase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0413281.1,Q202J4,Dermonecrotic toxin SPH (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),Phospholipase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0425547.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0441213.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0433549.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0416007.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0444887.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0442830.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0433279.1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0416192.1,A0A2R4SV19,Venom serine protease inhibitor (AcVSPI) (VSPI) (Allergen Api m 6-like peptide),Serine protease inhibitor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0414916.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Ixodes persulcatus ,Ticks,GCA_013358835.2_BIME_Iper_1.3_id_KAG0419731.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Ixodes ricinus,Ticks,GADI01P.1_id_JAA69663.1,P0CF77,Tddefensin,Cysteine rich protein
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR88123.1,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Ixodes ricinus,Ticks,GADI01P.1_id_JAA73410.1,Q4PMX3,Ixodegrin-like peptide (Platelet aggregation inhibitor) (PAI) (Tick anti-thrombosis peptide),Ixodegrin
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXU93678.1,Q4PMX3,Ixodegrin-like peptide (Platelet aggregation inhibitor) (PAI) (Tick anti-thrombosis peptide),Ixodegrin
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXV00966.1,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR93064.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXV01115.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXV01116.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR93017.1,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR95007.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR89611.1,Q86RQ7,Venom peptide BmKAPI (Ascaris-type protease inhibitor) (BmAPI) (Putative anticoagulant peptide BmAP1),Protease inhibitor
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR91997.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXU98563.1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR95171.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXU98547.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Ixodes ricinus,Ticks,GEGO01P.1_id_JAR89735.1,D8VNT0,Ryncolin-4,Veficolin
+Ixodes ricinus,Ticks,GIFC01P.1_id_MXV00730.1,D8VNT0,Ryncolin-4,Veficolin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY37915.1,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7211136.1,P0DQG7,U-scoloptoxin(16)-Er13a (U-SLPTX(16)-Er13a),Cysteine rich protein
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC08933.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY44623.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC08761.1,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY39915.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY39620.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY42738.1,Q8AY75,Calglandulin,Endothelial growth factor
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7210379.1,Q4PMX3,Ixodegrin-like peptide (Platelet aggregation inhibitor) (PAI) (Tick anti-thrombosis peptide),Ixodegrin
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7210375.1,Q4PMX3,Ixodegrin-like peptide (Platelet aggregation inhibitor) (PAI) (Tick anti-thrombosis peptide),Ixodegrin
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC11935.1,P85031,Techylectin-like protein,Lectin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY43615.1,P85031,Techylectin-like protein,Lectin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY43920.1,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY39514.1,A0A6B9KZ40,Actin depolymerising venom protein gelsolin 1,Metalloproteinase
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY42301.1,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY38462.1,Q25338,Delta-latroinsectotoxin-Lt1a (Delta-LIT-Lt1a) (Delta-latroinsectotoxin) (Delta-LIT),Neurotoxin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY36410.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY41961.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC02351.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY41135.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC13394.1,D9IFL3,Anticoagulant protein rhipilin-1,Rhipilin
+Ixodes scapularis,Ticks,GHJT01P.1_id_MOY36018.1,Q8MQS8,Venom serine protease 34 (SP34) (EC 3.4.21.-) (allergen Api m 7),Serine protease 
+Ixodes scapularis,Ticks,GCA_000208615.1_JCVI_ISG_i3_1.0_id_EEC12873.1,A0A3G5BID2,U-Kazal-Dg21.2,Serine protease inhibitor
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7208553.1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7208552.1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7208551.1,P0C1X2,Kunitz-type conkunitzin-S1 (Conk-S1),Serine protease inhibitor
+Ixodes scapularis,Ticks,GKHW01.1_id_MDC7213540.1,D8VNT0,Ryncolin-4,Veficolin
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY09979.1,A0A1U9VX91,Glycerotoxin paralog 1 (GLTx paralog 1),Neurotoxin
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY07227.1,A0A1U9VX91,Glycerotoxin paralog 1 (GLTx paralog 1),Neurotoxin
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY04659.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY08423.1,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY06832.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Ornithodoros turicata,Ticks,GGLE01.1_id_MBY09192.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP87934.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP80811.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP80812.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP82666.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP86763.1,Q8AY75,Calglandulin,Endothelial growth factor
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP84699.1,P85031,Techylectin-like protein,Lectin
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP82915.1,Q25338,Delta-latroinsectotoxin-Lt1a (Delta-LIT-Lt1a) (Delta-latroinsectotoxin) (Delta-LIT),Neurotoxin
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP80805.1,A5X2X1,Fused toxin protein,Other
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP77576.1,L0GCW8,Toxin-like protein 14,Other
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP79825.1,P86468,Toxin Bcs III 15.09,Other
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP76438.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP79172.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP86864.1,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP82586.1,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP78161.1,Q58L90,Venom prothrombin activator omicarin-C non-catalytic subunit (vPA) (Venom coagulation factor Va-like protein) [Cleaved into: Omicarin-C non-catalytic subunit heavy chain; Omicarin-C non-catalytic subunit light chain],prothrombin activator
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP82847.1,P0C8M2,Serine proteinase-like BMK-CBP,Serine protease
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP80609.1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP86729.1,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Rhipicephalus appendiculatus,Ticks,GEDV01.1_id_JAP86730.1,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8036593.1,Q75WF2,Plancitoxin-1 (EC 3.1.22.1) (Plancitoxin I) (Plan-I) [Cleaved into: Plancitoxin-1 subunit alpha; Plancitoxin-1 subunit beta],Cytotoxin
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8041052.1,Q8AY75,Calglandulin,Endothelial growth factor
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8029788.1,G4V4G1,Insulin-like growth factor-binding protein-related protein 1 (IGFBP-rP1),IGFBP
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8023076.1,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8035284.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8035285.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8040742.1,J3RZ81,Putative endothelial lipase (EC 3.1.1.3),Lipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8039201.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8022499.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8020446.1,C9D7R2,Astacin-like metalloprotease toxin 2 (EC 3.4.24.-) (Loxosceles astacin-like protease 2) (LALP2),Metalloproteinase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8035345.1,U6BLN5,Venom metalloproteinase BumaMPs1 (MPs1) (EC 3.4.24.-) (Acid trehalase),Metalloproteinase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8034907.1,W4VS99,Neprilysin-1 (EC 3.4.24.-),Metalloproteinase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8034686.1,Q4U4N3,Alpha-latrotoxin-associated low molecular weight protein-2 (Alpha-latrotoxin-associated LMWP2) (Latrodectin-2),Neurotoxin
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8034687.1,Q4U4N3,Alpha-latrotoxin-associated low molecular weight protein-2 (Alpha-latrotoxin-associated LMWP2) (Latrodectin-2),Neurotoxin
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8037157.1,P0CJ14,Venom protein 302,Other
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8018782.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8035669.1,Q6Q252,Phospholipase A1 1 (PLA1 1) (EC 3.1.1.32) (allergen Pol d 1),Phospholipase
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8009570.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Rhipicephalus microplus,Ticks,GCA_013339725.1_BIME_Rmic_1.3_id_KAH8032234.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7939380.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7936071.1,Q92035,Acetylcholinesterase (BfAChE) (EC 3.1.1.7),Acetylcholinesterase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7987044.1,P85840,Venom allergen 5 (Antigen 5) (Cysteine-rich venom protein) (CRVP),Cysteine rich protein
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7943924.1,Q75WF2,Plancitoxin-1 (EC 3.1.22.1) (Plancitoxin I) (Plan-I) [Cleaved into: Plancitoxin-1 subunit alpha; Plancitoxin-1 subunit beta],Cytotoxin
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7976818.1,Q8AY75,Calglandulin,Endothelial growth factor
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7962973.1,P85031,Techylectin-like protein,Lectin
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7939105.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7939653.1,J3SDX8,Putative lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Lipase A) (Sterol esterase),Lipase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7956471.1,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7976861.1,J3S9D9,Reticulocalbin-2 (Taipoxin-associated calcium-binding protein 49 homolog),Other
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7973157.1,Q90YA8,Glutaminyl-peptide cyclotransferase (EC 2.3.2.5) (Glutaminyl cyclase) (QC) (Glutaminyl-tRNA cyclotransferase),other
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7943627.1,Q202J4,Dermonecrotic toxin SPH (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),Phospholipase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7943632.1,Q202J4,Dermonecrotic toxin SPH (EC 4.6.1.-) (Phospholipase D) (PLD) (Sphingomyelin phosphodiesterase D) (SMD) (SMase D) (Sphingomyelinase D),Phospholipase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7935957.1,Q6Q252,Phospholipase A1 1 (PLA1 1) (EC 3.1.1.32) (allergen Pol d 1),Phospholipase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7973024.1,A0A6P8HC43,Actinia tenebrosa protease inhibitors (Carboxypeptidase inhibitor SmCI-like) [Cleaved into: ATPI-I; ATPI-II],Protease inhibitor
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7961946.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7976662.1,C9WMM5,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),Serine carboxypeptidase
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7952397.1,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Rhipicephalus sanguineus,Ticks,GCA_013339695.2_BIME_Rsan_1.4_id_KAH7938906.1,Q8WPI2,Boophilin-H2,Serine protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA12009.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA12011.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA12010.1,P0DQT8,Defensin BmKDfsin2,Cysteine rich protein
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA21641.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA21640.1,P0CV91,Peroxiredoxin-4 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 4),Cysteine-dependent peroxidase
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA12116.1,P85031,Techylectin-like protein,Lectin
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA21809.1,Q25338,Delta-latroinsectotoxin-Lt1a (Delta-LIT-Lt1a) (Delta-latroinsectotoxin) (Delta-LIT),Neurotoxin
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16546.1,A5X2X1,Fused toxin protein,Other
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16549.1,A5X2X1,Fused toxin protein,Other
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA23155.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA23156.1,P0DI84,L-amino-acid oxidase (LAO) (VAA-LAAO I) (EC 1.4.3.2),Oxidase
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16415.1,P0DM55,Venom peptide SjAPI (Ascaris-type protease inhibitor),Protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16420.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16419.1,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA16460.1,Q86RQ7,Venom peptide BmKAPI (Ascaris-type protease inhibitor) (BmAPI) (Putative anticoagulant peptide BmAP1),Protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA11567.1,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA11566.1,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA11649.1,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Rhipicephalus zambeziensis,Ticks,GFPF01P.1_id_MAA11606.1,P0CH75,Kunitz-type serine protease inhibitor hainantoxin F7-25.66 (Peptide F7-25.66),Serine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1U677|G1U677_RABIT,A7X3W6,C-type lectin lectoxin-Enh2 (CTL),C-type Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SUE4|G1SUE4_RABIT,P81714,Cystatin,Cysteine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|U3KNW8|U3KNW8_RABIT,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SXK2|G1SXK2_RABIT,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SG27|G1SG27_RABIT,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SKP9|G1SKP9_RABIT,Q2XXQ7,Cysteine-rich venom protein VAR8 (CRVP) (Cysteine-rich secretory protein VAR8) (CRISP-VAR8),Cysteine rich protein
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TEE0|G1TEE0_RABIT,P67863,Snake venom vascular endothelial growth factor toxin vammin (svVEGF) (VEGF-F),Endothelial growth factor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T5K0|G1T5K0_RABIT,Q1HLC0,Hemolin (EC 3.4.21.-) (Lonomia obliqua Stuart factor activator) (Losac),Hemolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SVR4|G1SVR4_RABIT,P0DQV8,C-type isolectin Sp-CL4,Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1U0U6|G1U0U6_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SHX8|G1SHX8_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TDU5|G1TDU5_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TF09|G1TF09_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SJC1|G1SJC1_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SZ70|G1SZ70_RABIT,Q66S03,Galactose-specific lectin nattectin (CTL),Lectin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T621|G1T621_RABIT,C9D7R2,Astacin-like metalloprotease toxin 2 (EC 3.4.24.-) (Loxosceles astacin-like protease 2) (LALP2),Metalloproteinase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SFJ1|G1SFJ1_RABIT,C9D7R2,Astacin-like metalloprotease toxin 2 (EC 3.4.24.-) (Loxosceles astacin-like protease 2) (LALP2),Metalloproteinase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SI46|G1SI46_RABIT,P0DM61,Astacin-like metalloprotease toxin 4 (EC 3.4.24.-) (Loxosceles astacin-like protease 4) (LALP4),Metalloproteinase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SZM5|G1SZM5_RABIT,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|U3KM24|U3KM24_RABIT,P0DM62,Astacin-like metalloprotease toxin 5 (EC 3.4.24.-) (Loxosceles astacin-like protease 5) (LALP5),Metalloproteinase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TD94|G1TD94_RABIT,A0A1U9VX91,Glycerotoxin paralog 1 (GLTx paralog 1),Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1U546|G1U546_RABIT,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SV72|G1SV72_RABIT,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SVW2|G1SVW2_RABIT,P0DKM9,Turripeptide OL11-like,Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SK79|G1SK79_RABIT,P84032,U24-ctenitoxin-Pn1a (U24-CNTX-Pn1a) (Venom protein PN16C3),Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T6T1|G1T6T1_RABIT,Q2XXL4,Vespryn,Neurotoxin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SZ36|G1SZ36_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1U545|G1U545_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SJA7|G1SJA7_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T9Z5|G1T9Z5_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SNG6|G1SNG6_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TUR6|G1TUR6_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TFH9|G1TFH9_RABIT,P83234,Ohanin,Ohanin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SCJ7|G1SCJ7_RABIT,P0CJ14,Venom protein 302,Other
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TBB1|G1TBB1_RABIT,P0DSL4,U-myrmeciitoxin(02)-Mg1a (MIITX(02)-Mg1a) (U-MIITX(02)-Mg1a),Other
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SF52|G1SF52_RABIT,P25687,Toxin MIT1 (MIT 1) (Black mamba intestinal toxin 1) (Black mamba venom protein A),Other
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TN89|G1TN89_RABIT,P86468,Toxin Bcs III 15.09,Other
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|U3KPN0|U3KPN0_RABIT,P0DPS4,Basic phospholipase A2 Cc2-PLA2 (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SL47|G1SL47_RABIT,P0DPS4,Basic phospholipase A2 Cc2-PLA2 (svPLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase),Phospholipase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SL43|G1SL43_RABIT,P80003,Acidic phospholipase A2 PA4 (PLA2) (EC 3.1.1.4) (Phosphatidylcholine 2-acylhydrolase) [Cleaved into: Acidic phospholipase A2 PA2],Phospholipase
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SU18|G1SU18_RABIT,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|F5XVB8|F5XVB8_RABIT,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1U334|G1U334_RABIT,P0DM56,Venom peptide SjAPI-2 (Ascaris-type protease inhibitor-2),Protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T2J5|G1T2J5_RABIT,B5U2W0,Venom serine protease Bi-VSP (EC 3.4.21.-) (Thrombin-like enzyme),Serine protease
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T9A5|G1T9A5_RABIT,B2BS84,Putative Kunitz-type serine protease inhibitor,Serine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SYG6|G1SYG6_RABIT,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SZM2|G1SZM2_RABIT,P0DV04,PI-stichotoxin-Hcr2n (PI-SHTX-Hcr2n) (Kunitz-type serine protease inhibitor HCGS1.19),Serine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1ST52|G1ST52_RABIT,Q6T269,Kunitz-type serine protease inhibitor bitisilin-3 (Two-Kunitz protease inhibitor),Serine protease inhibitor
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TEG5|G1TEG5_RABIT,D8VNT0,Ryncolin-4,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TW43|G1TW43_RABIT,D8VNT0,Ryncolin-4,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SVD1|G1SVD1_RABIT,D8VNT0,Ryncolin-4,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1SSA8|G1SSA8_RABIT,D8VNT0,Ryncolin-4,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TKR0|G1TKR0_RABIT,D8VNT0,Ryncolin-4,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1TWA7|G1TWA7_RABIT,E2IYB3,Veficolin-1,Veficolin
+Oryctolagus cuniculus,Mammal,All_sequences_Mulenga2020_id_tr|G1T0X2|G1T0X2_RABIT,E2IYB3,Veficolin-1,Veficolin

@@ -1,0 +1,234 @@
+---
+title: "Toxin Clusters Summary Report"
+output: html_document
+date: "2023-06-08"
+---
+## Preliminary Results 
+
+This notebook summarizes clustering results from `mmseqs search` by using a representative database of curated toxin proteins from Uniprot and querying against a collection of venom proteins extracted from transcriptome shotgun assemblies. This summary works off of the file `results/2023-04-13-clustering-results/uniprot-vs-venom-proteins-summaries.tsv` that combines the results output from `mmseqs search`, the metadata for the uniprot accessions, and information about the protein hits including protein length and cysteine content. 
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+```{r}
+clustering_results <- read_tsv("../results/2023-04-13-clustering-results/uniprot-vs-venom-proteins-summaries.tsv")
+```
+
+
+## Basic summaries of clusters 
+First we will just look at all clusters regardless of if the protein hits comprising those clusters are good hits or are singleton clusters. This gives us a good starting glimpse of what we are working with:
+
+```{r}
+# number of clusters
+clustering_results %>% 
+  summarize(n = n_distinct(accession_hit))
+```
+
+
+```{r}
+clustering_results %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  ggplot(aes(x=n)) +
+  geom_histogram(binwidth = 1, fill = "steelblue", color = "black") + 
+  labs(x = "Number of Proteins", y="Frequency", title = "Distribution of # proteins in Toxin Clusters \n(588 total clusters)")
+```
+
+From these results, there are 588 total clusters, and many clusters are either singletons or have few protein hits in them. Whereas there are a good amount of clusters (~50) that have up to 300 proteins within them. This could suggest that these clusters are highly conserved across venom types, or that we are oversampling for a certain toxin type/venomous species. For example, we know that in this Uniprot database of toxin proteins there are a lot of snake toxin representatives, and a lot of the species we were able to get venom transcriptomes from are snakes. 
+
+## More stringent filtering 
+Now we will add some filtering to look more specifically at distribution of protein length/cysteine content of hits within clusters. A good cutoff I usually use in HMM-based work is 1e-50, so take with a grain of salt that you might need to see where the e-value threshold falls off and adjust accordingly. 
+
+```{r}
+clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  summarize(n = n_distinct(accession_hit))
+```
+With this more stringent filter of requiring a hit to have an evalue of 1e-50, 132 total clusters meet this criteria. Now the distribution of proteins in clusters looks like: 
+```{r}
+clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  ggplot(aes(x=n)) +
+  geom_histogram(binwidth = 1, fill = "steelblue", color = "black") + 
+  labs(x = "Number of Proteins", y="Frequency", title = "Distribution of # proteins in Toxin Clusters that pass 1e-50 filter \n(132 total clusters)")
+```
+
+There are still quite a handful of clusters with singletons, and usually those aren't super interesting if we are looking for potentially conserved proteins/functions, so we can filter for total number of proteins within a cluster to be above 50 for example: 
+```{r}
+options(tibble.print_max = Inf)
+clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n))
+```
+So looking at some of the descriptions for the 38 clusters that have proteins that pass the filter of 1e-50 for the hit and have more than 50 proteins in them, there are quite a few snake venoms which we were expecting because of oversampling those and they are quite conserved. 
+
+## Summary statistics for protein length and cysteine content 
+Now we can start to look at the distributions of protein length/cysteine content for these clusters since the 38 that pass the above filters are a manageable amount to plot, just for example purposes. For this example I will just show the first 12 clusters listed above because the plot in a notebook is messy to read with all 38, but the same code can be adjusted to inspect more clusters. 
+
+```{r}
+clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  head(n=12) %>% 
+  left_join(clustering_results) %>% 
+  select(accession_hit, length) %>% 
+  ggplot(aes(x=length)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(~accession_hit, scales="free") +
+  labs(x = "Protein Length", y = "Count", title = "Distribution of Protein Length within Accession Clusters")
+
+```
+
+What looks interesting for clusters such as `A0A6B7FMR5`, `P0C6E8`, `P17347` and some others, there are clusters of proteins that have different distributions of lengths - such as a handful with 200, then 400, then 600. These three specific examples seem to all be snake metalloproteinases, which seems to be interesting. 
+
+Now we can look at comparisons of protein length vs cysteine content within these clusters, just as a small example for the same clusters that seem to be conserved across different venom types:
+
+```{r}
+clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  head(n=12) %>% 
+  left_join(clustering_results) %>% 
+  select(accession_hit, length, cysteine_content) %>% 
+  ggplot(aes(x=length, y=cysteine_content)) +
+  geom_point() + 
+  facet_wrap(~accession_hit, scales="free") + 
+  labs(x = "Protein Length", y = "Cysteine Content", title = "Comparison of protein length vs cysteine content within stringent cutoff clusters")
+
+```
+
+
+# Filter out the snake accessions
+Out of curiosity, since we already generally know that snake toxins are pretty conserved, I wanted to look at all accessions that ARE NOT snake toxins, which I'm going off of in the description just for a quick look. So I'm going to grab all rows from the results that do not contain the word "snake": 
+
+```{r}
+clustering_results %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  filter(!grepl("Snake", accession_hit_description)) %>% 
+  summarize(n = n_distinct(accession_hit)) %>% 
+  head()
+```
+From the uniprot metadata for these proteins, there are supposedly only 490/7737 of the proteins that have "Snake" in the description. However this isn't a great 1:1 comparison since we clustered to representative sequences/accessions for performing the search. But it looks like of our total 588 clusters 535 don't have the word "Snake" in the description. This doesn't mean that there aren't still snake toxins in here, but this is the best we can do automatically right now to pull those out and look at the distributions. 
+
+Now applying the same filters: 
+```{r}
+options(tibble.print_max = Inf)
+clustering_results %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  filter(!grepl("Snake", accession_hit_description)) %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n))
+```
+So you can already tell this wasn't foolproof because for example Row 23 the description for the venom nerve growth factor has "Cobra" in it, but here we are, we tried our best for a quick thing. Now lets look at the distributions of protein length and cysteine content for these. Some of these are already represented in the plots above, just going to plot them all for non "Snake" like things: 
+
+```{r}
+clustering_results %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  filter(!grepl("Snake", accession_hit_description)) %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  left_join(clustering_results) %>% 
+  select(accession_hit, length) %>% 
+  ggplot(aes(x=length)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(~accession_hit, scales="free") +
+  labs(x = "Protein Length", y = "Count", title = "Distribution of Protein Length within Accession Clusters")
+```
+
+```{r}
+clustering_results %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  filter(!grepl("Snake", accession_hit_description)) %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  left_join(clustering_results) %>% 
+  select(accession_hit, length, cysteine_content) %>% 
+  ggplot(aes(x=length, y=cysteine_content)) +
+  geom_point() + 
+  facet_wrap(~accession_hit, scales="free") + 
+  labs(x = "Protein Length", y = "Cysteine Content", title = "Comparison of protein length vs cysteine content within stringent cutoff clusters")
+```
+
+```{r}
+sessionInfo()
+```
+
+## Updated Results
+
+Recently I figured out that mmseqs by default will only return a max of 300 results per query, and you have to add the flag `--exhaustive-search` to truly get all pairwise results for each query. Therefore I want to check if adding this flag significantly changes the cluster results and if we potentially missed something before. 
+
+```{r}
+updated_clustering_results <- read_tsv("../results/2023-06-01-updated-clustering-results/results/updated-uniprot-vs-venom-proteins-summaries.tsv")
+
+# number of clusters
+updated_clustering_results %>% 
+  summarize(n = n_distinct(accession_hit))
+
+updated_clustering_results %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  ggplot(aes(x=n)) +
+  geom_histogram(binwidth = 1, fill = "steelblue", color = "black") + 
+  labs(x = "Number of Proteins", y="Frequency")
+
+updated_clustering_results %>% 
+  filter(evalue < 1e-50) %>% 
+  group_by(accession_hit) %>% 
+  count() %>% 
+  filter(n > 50) %>% 
+  left_join(updated_clustering_results) %>% 
+  group_by(accession_hit, accession_hit_description) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  head(n=12) %>% 
+  left_join(updated_clustering_results) %>% 
+  select(accession_hit, length) %>% 
+  ggplot(aes(x=length)) +
+  geom_histogram(binwidth = 10) +
+  facet_wrap(~accession_hit, scales="free") +
+  labs(x = "Protein Length", y = "Count", title = "Distribution of Protein Length within Accession Clusters")
+```
+
+From looking at these results from `--exhaustive-search`, more proteins belong to more Uniprot representative toxin "clusters" than previously, so on a per-cluster basis there is more to compare for outlier purposes. For example if there are many more proteins in a given cluster to compare the length of those proteins to the length of the reference accession, you could get false positives from the exhaustive search because that protein isn't a very good hit to that reference accession if one weren't filtering first by e-value or some other metric and just taking anything that ended up in that accession cluster as a true hit to compare against. 
+
+Additionally after following through this analysis to the accessory domain analysis to try and find conserved "accessory" parts of the protein that facilitate toxin function we didn't find much. If we had found a few "conserved" examples I would be more worried about repeating this with the exhaustive search to really verify that those were actually conserved and not false positive hits because of the restricted nature of the prior search. Since the following steps would be: 1) identify outliers compared to the length of the reference protein (regardless of evalue etc.), 2) pull out the accessory domain that isn't homologous to the reference protein, 3) cluster those "accessory" parts and BLAST them - and we didn't really find anything with the more restricted search, I'm not sure we would get there in this way either. It would provide more proteins per reference accession to compare against, but probably not good hits since forcing an exhaustive search and I would really recommend adding filters if we did this again. 
+
