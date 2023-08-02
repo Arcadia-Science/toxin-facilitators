@@ -193,13 +193,16 @@ p=ggplot(DP, aes(x=fct_inorder(accession_hit),y=Ratio, col=Outlier,
   geom_jitter(position=position_jitter(0.15), cex=0.5,show.legend = FALSE) + theme_light()+
   theme(axis.text.x=element_text(size=7,angle=90), text=element_text(family="Arial"))+
   geom_hline(yintercept = 1, col='gray63') + xlab('\nClusterID') +
-  scale_color_manual(values=c('#8A99AD','#FFB984'))
+  scale_color_manual(values=c('#8A99AD','#FFB984'))+
+  ylab('Length ratio of toxin to closest homolog in UniProt')+
+  theme(legend.position="none", plot.margin=unit(c(0.5,0.75,0.5,0.75),"inches"),
+        axis.title.y = element_text(margin = margin(t = 0, r = 20, b = 0, l = 0)))
 
-Fig3A=ggplotly(p)
+Fig3=ggplotly(p)
 
 htmlwidgets::saveWidget(
   widget = Fig3A, 
-  file = "figures/Fig3A.html",
+  file = "figures/Fig3.html",
   selfcontained = TRUE 
 )
 

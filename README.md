@@ -127,8 +127,8 @@ To identify the proteins that are length-outliers:
 5. Visualize ratio distribution in each cluster and outliers. Plots are generated every 10 clusters (ordered according to the length of the cluster reference protein).
 
 Protein outliers informations are then extracted and exported into the csv file: `Venomproteins_ticks_toxins_outliers_June2023.csv`.
-Code for Figure3A (length-ratio distribution and outliers for 10 clusters). Figures can be found in the folder 'figures/'
-The interactive Figure 3B has been generated from the Jupyter Notebook: `notebooks/Figure3B_Interactive_toxin_outlier_heatmap.ipynb` using the input file: `metadata/Matrix_Outliers.tsv`
+Code for Figure 3 (length-ratio distribution and outliers for 10 clusters). Figures can be found in the folder 'figures/'
+The interactive Figure 4 has been generated from the Jupyter Notebook: `notebooks/Figure4_Interactive_toxin_outlier_heatmap.ipynb` using the input file: `metadata/Matrix_Outliers.tsv`
 
 ## High-throughput extraction and annotation of accessory domains from outlier toxin protein hits
 From exploring the clusters against the Uniprot toxin protein database, there are some protein hits that are much longer than the reference sequence or other protein hits in that cluster. These outliers were collected and listed in `results/2023-04-26-clustering-results/uniprot-toxin-proteins-outliers.xlsx`. This has the protein locus tag and what Uniprot toxin cluster it was assigned to. To extract the accessory domains:
@@ -220,12 +220,12 @@ python3 run_parse_hmms.py \
 
 ## Accessory sequences analysis
 We further filter/investigate the accessory sequences clusters identified in `updated-accessory-toxin-proteins-clustering_cluster.tsv`. The objective is to characterize the diversity of species and toxin within each clusters. In other word we want to understand if accessory sequences in each cluster are associated with the same species and if they are accessory sequences of the same toxin (as identified by the toxin-clusering).
-This analysis is performed in the custom R script `Accessory_sequence_diversity_analysis.R` and requires the input files: ` Clusters_Accessory_UpdatedJune2023.csv` (reformated output of the accessory sequences clustering), `Cluster_Acc_Ref_PFAM_UpdatedJune2023.csv.csv` (Pfam annotations of the accessory sequences clusters) and `Origin_data_accessory_seq_clusters_UpdatedJune2023.csv ` (Toxin information for accessory sequences - indicates for each present accessory sequence what is the toxin an accessory sequence is expected to be associated with according to the cluster reference toxin of the toxin-cluster where the accessory sequence is from). This script produces the Pub's Figures 4 and 5 as well as Table 2 (`results/Tables/Table-2_Summary_metrics_accessory_sequence_clusters_.csv`).
+This analysis is performed in the custom R script `Accessory_sequence_diversity_analysis.R` and requires the input files: ` Clusters_Accessory_UpdatedJune2023.csv` (reformated output of the accessory sequences clustering), `Cluster_Acc_Ref_PFAM_UpdatedJune2023.csv.csv` (Pfam annotations of the accessory sequences clusters) and `Origin_data_accessory_seq_clusters_UpdatedJune2023.csv ` (Toxin information for accessory sequences - indicates for each present accessory sequence what is the toxin an accessory sequence is expected to be associated with according to the cluster reference toxin of the toxin-cluster where the accessory sequence is from). This script produces the Pub's Figures 5 and 6 as well as Table 2 (`results/Tables/Table-2_Summary_metrics_accessory_sequence_clusters_.csv`).
 This scripts uses the R packages: `tidyverse`, `ggplot2`,`dplyr` and `plotly`.
 
 ### Cluster filtering based on Pfam annotation
 Toxins span a broad range of protein family. Pfam consistently associated with toxins (toxin-associated Pfam) can be inferred from the curated Uniprot Venom protein and toxins database and compiled with the Pfam list identified in the following work: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655178/ . According to this list: `list`, we identify any accessory sequence clusters whose representative sequence has been annotated with a toxin-associated Pfam and filter them out.
-Code for Figure 4 (histogram of the accessory sequences clusters size colored based on the Pfam annotation status) is present in this section
+Code for Figure 5 (histogram of the accessory sequences clusters size colored based on the Pfam annotation status) is present in this section
 
 The list of the accessory sequence clusters that are associated with a Pfam annotation that is not a toxin-associated Pfam is provided in Table 1: `results/Tables/Table-1_Accessory_clusters_non_Toxin_Pfam_information.xlsx`
 
@@ -233,6 +233,6 @@ The list of the accessory sequence clusters that are associated with a Pfam anno
 ### Species and toxin diversity analysis
 In each remaining cluster, we further identify from how many different outlier sequences the accessory sequences have been extracted.
 For the rest of the diversity analysis, we filter out any accessory sequences that is assocaited with a single outlier. Then, we continue the analysis by calculating
-    - the number of species represented / cluster (Fig 5)
+    - the number of species represented / cluster (Fig 6)
     - the number of different toxins (based on toxin-clusters reference toxin) associated with the accessory sequences / cluster.
 All this information is available in the table: `results/R_Analysis/ASClusters_metrics_summary_UpdatedJune2023.csv` or `results/Tables/Table-2_Summary_metrics_accessory_sequence_clusters_.csv`

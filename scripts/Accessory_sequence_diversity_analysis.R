@@ -56,7 +56,9 @@ hpt=ggplot(Data_all, aes(x=nb_hits, fill=Toxin.PFAM))+
   xlab('Cluster size') + ylab('Number of clusters') + ggtitle('Distribution of cluster size of accessory sequences')+
   scale_fill_manual(values=c('#5088C5','#F28360','#3B9886'))
 
-
+pdf('Fig5.pdf')
+hpt
+dev.off()
 
 
 ### Step 3: Filtering out toxin-associated clusters  ###
@@ -159,7 +161,7 @@ hp_spe=ggplot(Data_summary_acc_cluster_no1, aes(x=nb_spe))+
   xlab('# of different species/cluster') + ylab('Number of clusters') + 
   scale_x_continuous(limits = c(0, 11), breaks = seq(0,10,1))
 
-pdf('figures/Fig5A.pdf')
+pdf('figures/Fig6.pdf')
 hp_spe
 dev.off()
 
@@ -169,9 +171,6 @@ hp_tox=ggplot(Data_summary_acc_cluster_no1, aes(x=nb_OCT))+
   xlab('# of different original toxin clusters/cluster') + ylab('Number of clusters') +
   scale_x_continuous(limits = c(0, 3), breaks = seq(0,3,1)) 
 
-pdf('figures/Fig5B.pdf')
-hp_tox
-dev.off()
 
 ### Step 7: Data export - Creation of Table 2 ##
 
