@@ -8,3 +8,8 @@ dependencies:
   - mmseqs=14.7e284
   - biopython=1.81
   - python=3.11.2
+  - transdecoder=5.7.1
+  - r=3.6.0
+  - r-tidyverse=2.0.0
+  - r-ggpubr=0.6.0
+  - r-plotly=4.10.2
