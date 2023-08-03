@@ -1,12 +1,10 @@
 # Discovery of Novel Toxin Facilitators
-The strike team is interested in finding non-toxic elements that may facilitate toxins in venoms or poisons reach their final destination. This could encompass proteins, peptides, small molecules, lipids, etc. Mining proteomes from diverse venoms might lead to promising non-toxic elements that can aid in drug delivery.
-
-This README first summarizes the computational approach we are taking for mining venom proteomes for facilitator proteins that might aid toxins to persist in the host environment and reach their target destination.
+We are interested in finding non-toxic elements that may facilitate toxins in venoms or poisons reach their final destination. This could encompass proteins, peptides, small molecules, lipids, etc. This README first summarizes the computational approach we are taking for mining venom proteomes for facilitator proteins that might aid toxins to persist in the host environment and reach their target destination. The rest of the README outlines the different programs and scripts used throughout the analysis.
 
 ## Background
 - We hypothesize that there are conserved facilitator proteins that are non-toxic but facilitate toxins in venoms and poisons to reach their final destination
 - The first two ideas under the umbrella of this hypothesis are that toxins and potentially facilitator proteins are 1) Cysteine rich (since toxins have a lot of disulfide bonds) and 2) Potentially are fused to the toxin itself.
-- There are several publicly available transcriptomes of venom from animals, insects, etc. and can be used for _de novo_ transcriptome assembly and annotation to obtain proteins or directly retrieve the proteins already annotated from these datasets and perform downstream analyses.
+- There are several publicly available venom transcriptomes from animals, insects, etc. and can be used to predict proteins or directly retrieve the proteins already annotated from these datasets and perform downstream analyses.
 
 ## Planned Approach
 1. Download proteins from the TSA for venom gland accessions that have proteins available. Otherwise download transcribed RNA sequences and predict ORFs/proteins, currently using `transdecoder`.
@@ -41,7 +39,7 @@ conda env create -n toxin_facilitators -f environment.yml
 First install the Entrez Direct toolkit from NCBI following these instructions: [https://www.ncbi.nlm.nih.gov/books/NBK179288/](https://www.ncbi.nlm.nih.gov/books/NBK179288/). If you need help finding where your NCBI API Key is follow these directions: [https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us](https://support.nlm.nih.gov/knowledgebase/article/KA-05317/en-us). Attempting to install this with conda did not end well so do it this way.
 
 Use the script `download_venom_tsa_proteins.py` on the accession metadata list that already has split out for accessions that already have called proteins through the TSA with:
-`scripts/download_venom_tsa_proteins.py metadata/SRA_TSA_venom_gland_accessions_protein_list.csv`. *For dumb reasons because of the way the Entrez tools have to be installed you must run it this way so that it calls python3 from /usr/bin/python3 and not python3 through an anaconda installation for example*.
+`scripts/download_venom_tsa_proteins.py metadata/SRA_TSA_venom_gland_accessions_protein_list.csv`.
 
 The script will output all proteins in the TSA for each species in a fasta file named with the corresponding species name for each accession. For accessions that proteins couldn't be found, you can look at the resulting `download_status.log` to see which ones failed and use that for downloading the transcribed RNA sequences directly and performing downstream protein prediction. The `-d` parameter adds a time delay with a default of 180 seconds because if you ping NCBI too many times you will get your IP blocked, I usually use 60 seconds.
 ### Download transcribed sequences for accessions without proteins and get predicted proteins
@@ -110,14 +108,10 @@ Now we have important information across multiple files - the resulting TSV from
 
 `python3 scripts/parse_mmseqs_results.py uniprot-vs-venom-proteins-results.tsv all_venom_proteins.fasta dbs/uniprot-toxin-proteins-metadata.tsv uniprot-vs-venom-proteins-summaries.tsv`.
 
-This summary file is in the `results/2023-04-13-clustering-results` directory. The notebook `notebooks/toxin_clusters_summary_report.Rmd` was used to analyze the cluster results and show to the Strike team.
-
-### Run against human proteins
-The same procedure as above was run for a set of human proteins from Uniprot and searched against the representative toxin sequences by making an mmseqs database of the Uniprot human proteins and searching with default parameters. This will help to serve as a way to inform what thresholds we should be using for filtering bad hits and if there are things in the human proteome that are homologous to toxin proteins but don't quite serve a "toxic" function, such as hyaluronidases.
-
+This summary file is in the `results/2023-04-13-clustering-results` directory. The notebook `notebooks/toxin_clusters_summary_report.Rmd` was used to analyze the cluster results and show to the Strike team. Note, this process above was before I found the `mmseqs easy-search` workflow, so most of this can be substituted by just doing that.
 ## Identification of protein length-outliers
 The cluster results from the above mmseqs search are further refered to as
-toxin-clusters'. Each cluster is characterized by a single toxin protein from the curated Uniprot database (refered to as the cluster reference toxin) and contains any venom protein that matched against the cluster reference toxin. Thus, we expect proteins from the same cluster to have the toxin domain and be of comparable size. Here, we want to identify length-outliers (but only longer proteins) in each cluster. The custom R script `Length-outliers-search.R` utilizes the file previously generated summary filr `uniprot-vs-all-venom-tick-proteins-summaries.tsv` and the curated Uniprot Venom proteins and Toxins database metadata file `Uniprot_Cluster_Info.csv` to generate the list of venom proteins that corresponds to our length-outlier definition (see below): `Venomproteins_ticks_toxins_outliers_20230428.csv`. The script relies on the R packages: `tiyverse`, `ggpubr`, and `plotly`.
+toxin-clusters'. Each cluster is characterized by a single toxin protein from the curated Uniprot database (refered to as the cluster reference toxin) and contains any venom protein that matched against the cluster reference toxin. Thus, we expect proteins from the same cluster to have the toxin domain and be of comparable size. Here, we want to identify length-outliers (but only longer proteins) in each cluster. The custom R script `scripts/Length-outliers-search.R` utilizes the file previously generated summary file `results/2023-06-15-exhaustive-clustering-results/results/2023-06-15-updated-uniprot-vs-venom-tick-proteins-summaries.tsv` and the curated Uniprot Venom proteins and Toxins database metadata file `metadata/R_scripts_data/Uniprot_Cluster_Info.csv` to generate the list of venom proteins that corresponds to our length-outlier definition (see below): `results/Results_R_Analysis/Venomproteins_ticks_toxins_outliers_June2023.csv`. The script relies on the R packages: `tidyverse`, `ggpubr`, and `plotly`.
 
 To identify the proteins that are length-outliers:
 1. Keep only one cluster hit per venom protein. If a venom protein was assigned to multiple clusters (ie had multiple hits in the curated Uniprot database), we only keep the hit that is associated with the lowest e-value.
@@ -126,12 +120,11 @@ To identify the proteins that are length-outliers:
 4. Identify any protein that meet the 'soft outliers' definition criteria: (i) length-ratio >=1.5 &, (ii) length-ratio > 1.5*IQ+Q3 ; where Q3 is the 3rd quartile of the distribution of the length-ratios of a cluster and IQ the interquartile range.
 5. Visualize ratio distribution in each cluster and outliers. Plots are generated every 10 clusters (ordered according to the length of the cluster reference protein).
 
-Protein outliers informations are then extracted and exported into the csv file: `Venomproteins_ticks_toxins_outliers_20230428.csv`.
-Code for Figure3A (length-ratio distribution and outliers for 10 clusters) & Figure3B (heatmap of species and toxin were outliers are found) is part of the same custom R script. Figure 3B requires the extra file `Outliers_data_Figure1B.csv`. Figures can be found in the folder 'figures/'
-
+Protein outliers informations are then extracted and exported into the csv file: `results/Results_R_Analysis/Venomproteins_ticks_toxins_outliers_June2023.csv`.
+Code for Figure3A (length-ratio distribution and outliers for 10 clusters) & Figure3B (heatmap of species and toxin were outliers are found) is part of the same custom R script. Figure 3B requires the extra file `metadata/R_scripts_data/Outliers_data_Figure1B.csv`. Figures can be found in the folder `figures/`
 
 ## High-throughput extraction and annotation of accessory domains from outlier toxin protein hits
-From exploring the clusters against the Uniprot toxin protein database, there are some protein hits that are much longer than the reference sequence or other protein hits in that cluster. These outliers were collected and listed in `results/2023-04-26-clustering-results/uniprot-toxin-proteins-outliers.xlsx`. This has the protein locus tag and what Uniprot toxin cluster it was assigned to. To extract the accessory domains:
+From exploring the clusters against the Uniprot toxin protein database, there are some protein hits that are much longer than the reference sequence or other protein hits in that cluster. These outliers were collected and listed in `results/2023-06-20-diamond-uniprot/lists/Venomproteins_ticks_toxins_outliers_new.csv`. This has the protein locus tag and what Uniprot toxin cluster it was assigned to. To extract the accessory domains:
 
 1. Create a DIAMOND database of the Uniprot toxin proteins, and create a subset fasta file of the outlier proteins based on the locus tag from the concatenated input fasta file used for the initial clustering
 2. Run `diamond blastp` of the outlier proteins against the Uniprot DIAMOND database
@@ -150,9 +143,9 @@ mamba install diamond
 
 And create a DIAMOND database of the Uniprot toxin proteins with: `diamond makedb --in dbs/uniprot-toxin-proteins.fasta --db uniprot-toxin-proteins.dmnd`.
 
-Because this will include toxin proteins that are likely related homologs and the BLAST output will contain "duplicates" and be more difficult to parse, we can instead create a DIAMOND database of the representative sequences that were used for `mmseqs` clustering, which are in `results/2023-04-13-clustering/uniprot_clustering`. Make a DIAMOND database with `diamond makedb --in uniprot-toxin-clustering_rep_seq.fasta --db uniprot-representative-toxin-seqs.dmnd`
+Because this will include toxin proteins that are likely related homologs and the BLAST output will contain "duplicates" and be more difficult to parse, we can instead create a DIAMOND database of the representative sequences that were used for `mmseqs` clustering, we made a DIAMOND database with `diamond makedb --in uniprot-toxin-clustering_rep_seq.fasta --db uniprot-representative-toxin-seqs.dmnd`
 ### Create subset fasta file of outlier proteins
-The outlier proteins are listed in `results/2023-05-01-diamond-uniprot/lists/outlier-protein-hits-list.txt`, and I checked with `cat outlier-protein-hits-list.txt | sort | uniq` to make sure they are all unique locus tags, and there are a total of 702 protein locus tags in this list. Use the script `make-subset-fasta.py` to input a list of locus tags and create a new FASTA file with only those proteins, with `python3 scripts/make_subset_fasta.py lists/outlier-protein-hits-list.txt all_venom_tick_proteins.fasta subset_venom_tick_proteins_outliers.fasta`.
+The outlier proteins are listed in `results/2023-06-20-diamond-uniprot/lists/2023-06-20-updated-outliers-list.txt`, and I checked with `cat 2023-06-20-updated-outliers-list.txt | sort | uniq` to make sure they are all unique locus tags, and there are a total of 702 protein locus tags in this list. Use the script `make-subset-fasta.py` to input a list of locus tags and create a new FASTA file with only those proteins, with `python3 scripts/make_subset_fasta.py lists/2023-06-20-updated-outliers-list.txt all_venom_tick_proteins.fasta subset_venom_tick_proteins_outliers.fasta`.
 
 ### Search subset proteins against the toxin DIAMOND database
 Then with DIAMOND search the proteins against the toxin DIAMOND database with:
@@ -220,7 +213,7 @@ python3 run_parse_hmms.py \
 
 ## Accessory sequences analysis
 We further filter/investigate the accessory sequences clusters identified in `accessory-toxin-proteins-clustering_cluster.tsv`. The objective is to characterize the diversity of species and toxin within each clusters. In other word we want to understand if accessory sequences in each cluster are associated with the same species and if they are accessory sequences of the same toxin (as identified by the toxin-clusering).
-This analysis is performed in the custom R script `Accessory_sequence_diversity_analysis.R` and requires the input files: ` Clusters_Accessory_05022023.csv` (reformated output of the accessory sequences clustering), `Cluster_Acc_Ref_PFAM.csv` (Pfam annotations of the accessory sequences clusters) and `Origin_data_accessory_seq_clusters.csv ` (Toxin information for accessory sequences - indicates for each present accessory sequence what is the toxin an accessory sequence is expected to be associated with according to the cluster reference toxin of the toxin-cluster where the accessory sequence is from). This script produces the Pub's Figures 4 and 5 as well as Table 2.
+This analysis is performed in the custom R script `Accessory_sequence_diversity_analysis.R` and requires the input files: ` results/Results_R_Analysis/Clusters_Accessory_05022023.csv` (reformated output of the accessory sequences clustering), `metadata/R_scripts_data/Cluster_Acc_Ref_PFAM.csv` (Pfam annotations of the accessory sequences clusters) and `metadata/R_scripts_data/Origin_data_accessory_seq_clusters.csv ` (Toxin information for accessory sequences - indicates for each present accessory sequence what is the toxin an accessory sequence is expected to be associated with according to the cluster reference toxin of the toxin-cluster where the accessory sequence is from). This script produces the Pub's Figures 4 and 5 as well as Table 2.
 This scripts uses the R packages: `tidyverse`, `ggplot2`,`dplyr` and `plotly`.
 
 ### Cluster filtering based on Pfam annotation
