@@ -1,4 +1,6 @@
 # Discovery of Novel Toxin Facilitators
+This repository is associated with the pub [Identifying candidate accessory domains by mining putative venom protein fusions](https://research.arcadiascience.com/pub/result-venom-toxin-accessory-sequences/release/1). (DOI: 10.57844/arcadia-d3dc-7499)
+
 We are interested in finding non-toxic elements that may facilitate toxins in venoms or poisons reach their final destination. This could encompass proteins, peptides, small molecules, lipids, etc. This README first summarizes the computational approach we are taking for mining venom proteomes for facilitator proteins that might aid toxins to persist in the host environment and reach their target destination. The rest of the README outlines the different programs and scripts used throughout the analysis.
 
 ## Background
@@ -108,7 +110,7 @@ Now we have important information across multiple files - the resulting TSV from
 
 `python3 scripts/parse_mmseqs_results.py uniprot-vs-venom-proteins-results.tsv all_venom_tick_proteins.fasta dbs/uniprot-toxin-proteins-metadata.tsv uniprot-vs-venom-proteins-summaries.tsv`.
 
-This summary file is in the `results/2023-06-15-exhaustive-clustering-results` directory. 
+This summary file is in the `results/2023-06-15-exhaustive-clustering-results` directory.
 
 ## Identification of protein length-outliers
 The cluster results from the above mmseqs search are further refered to as
@@ -232,3 +234,6 @@ For the rest of the diversity analysis, we filter out any accessory sequences th
     - the number of species represented / cluster (Fig 6)
     - the number of different toxins (based on toxin-clusters reference toxin) associated with the accessory sequences / cluster.
 All this information is available in the table: `results/R_Analysis/ASClusters_metrics_summary_UpdatedJune2023.csv` or `results/Tables/Table-2_Summary_metrics_accessory_sequence_clusters_.csv`
+
+# Contributing & Citation
+If you use the code or ideas in this repository for your own work, please cite DOI: 10.57844/arcadia-d3dc-7499. If you would like to contribute to this repository, please read our [guide on credit for contributions](https://github.com/Arcadia-Science/arcadia-software-handbook/blob/main/guides-and-standards/guide-credit-for-contributions.md).
